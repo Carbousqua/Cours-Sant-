@@ -1,1 +1,208 @@
 
+[
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Quelles sont les principales étapes d'un bain complet au lit ?",
+    "reponse": "Préparer le matériel, protéger la literie, laver le patient de la tête aux pieds, rincer, sécher et repositionner le patient."
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Quels sont les signes vitaux à surveiller chez un patient ?",
+    "reponse": "Température, pouls, tension artérielle, fréquence respiratoire et saturation en oxygène."
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Comment prévenir les escarres chez un patient alité ?",
+    "reponse": "Changer de position toutes les 2 à 3 heures, utiliser des coussins de soutien, garder la peau propre et sèche."
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Quelle est la fréquence normale du pouls chez l’adulte ?",
+    "reponse": "Entre 60 et 100 battements par minute."
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Quels sont les objectifs principaux des soins de base ?",
+    "reponse": "Assurer l’hygiène, le confort, la sécurité, surveiller l’état de santé et prévenir les complications."
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Comment aider un patient à s’alimenter correctement ?",
+    "reponse": "Vérifier le régime, préparer les repas, aider à manger si nécessaire et noter la consommation."
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Quelles sont les règles d’hygiène des mains en soins infirmiers ?",
+    "reponse": "Mouiller, savonner pendant 20 secondes, rincer et sécher avec un linge propre ou essuie-tout."
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Quelles mesures prendre pour favoriser la mobilité d’un patient alité ?",
+    "reponse": "Mobilisation passive ou active, aide à la marche, repositionnement régulier et utilisation de dispositifs de soutien."
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Quelle est la fréquence normale de la respiration chez un adulte ?",
+    "reponse": "Entre 12 et 20 respirations par minute."
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Quels sont les 5 'B' de l’administration sécurisée des médicaments ?",
+    "reponse": "Bon patient, Bon médicament, Bonne dose, Bonne voie, Bon moment."
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Quelles précautions doit-on prendre avant de donner un médicament par voie orale ?",
+    "reponse": "Vérifier l’identité du patient, la dose prescrite, la voie, la date de péremption et la présence d’allergies."
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Comment effectuer un changement de position sécuritaire pour un patient alité ?",
+    "reponse": "Informer le patient, utiliser des aides si nécessaire, lever les barrières du lit et repositionner doucement pour éviter les blessures."
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Quels sont les signes de déshydratation chez un patient ?",
+    "reponse": "Bouche sèche, soif intense, urines rares ou foncées, hypotension, fatigue."
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Quels dispositifs peuvent aider à prévenir les chutes d’un patient ?",
+    "reponse": "Barres d’appui, lits réglables, chaussures antidérapantes, surveillance rapprochée."
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Comment mesurer correctement la tension artérielle ?",
+    "reponse": "Patient assis, bras à hauteur du cœur, manchette adaptée, éviter de parler pendant la mesure, noter la valeur systolique et diastolique."
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Pourquoi est-il important de surveiller la diurèse d’un patient ?",
+    "reponse": "Pour évaluer l’état d’hydratation et la fonction rénale."
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Quels signes indiquent un malaise imminent chez un patient ?",
+    "reponse": "Pâleur, sueurs, vertiges, agitation, hypotension, rythme cardiaque irrégulier."
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Comment évaluer l’état de conscience d’un patient ?",
+    "reponse": "Observer la réactivité aux stimuli verbaux et physiques, utiliser l’échelle de Glasgow si nécessaire."
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Quels sont les objectifs principaux de la mobilisation précoce ?",
+    "reponse": "Prévenir les complications respiratoires et circulatoires, diminuer les escarres, maintenir la force musculaire et l’autonomie."
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Comment assurer le confort d’un patient pendant la nuit ?",
+    "reponse": "Vérifier la literie, ajuster la température, proposer des toilettes et changer les protections si nécessaire."
+  },
+  {
+    "cours_id": "Pharmacologie",
+    "question": "Qu’est-ce que la pharmacologie ?",
+    "reponse": "La science qui étudie les médicaments, leur effet sur le corps et comment le corps agit sur eux."
+  },
+  {
+    "cours_id": "Pharmacologie",
+    "question": "Quels sont les principaux objectifs de la pharmacologie ?",
+    "reponse": "Comprendre les mécanismes d’action, connaître les indications et contre-indications, identifier les effets secondaires et administrer les médicaments de façon sécurisée."
+  },
+  {
+    "cours_id": "Pharmacologie",
+    "question": "Quelles sont les étapes de la pharmacocinétique ?",
+    "reponse": "Absorption, distribution, métabolisme et élimination."
+  },
+  {
+    "cours_id": "Pharmacologie",
+    "question": "Qu’est-ce que la pharmacodynamie ?",
+    "reponse": "L’étude des effets d’un médicament sur le corps et son mécanisme d’action."
+  },
+  {
+    "cours_id": "Pharmacologie",
+    "question": "Donnez un exemple d’agoniste et un antagoniste.",
+    "reponse": "Agoniste : Salbutamol ; Antagoniste : Atropine."
+  },
+  {
+    "cours_id": "Pharmacologie",
+    "question": "Quels médicaments sont administrés par voie parentérale ?",
+    "reponse": "Ceux administrés par injection : intraveineuse, intramusculaire ou sous-cutanée."
+  },
+  {
+    "cours_id": "Pharmacologie",
+    "question": "Donnez un exemple d'antalgique de palier 1.",
+    "reponse": "Paracétamol."
+  },
+  {
+    "cours_id": "Pharmacologie",
+    "question": "Quels sont les effets indésirables possibles d’un médicament ?",
+    "reponse": "Nausées, vomissements, éruptions cutanées, hypotension, réactions allergiques."
+  },
+  {
+    "cours_id": "Pharmacologie",
+    "question": "Pourquoi est-il important de connaître les interactions médicamenteuses ?",
+    "reponse": "Pour éviter que deux médicaments n’aggravent les effets secondaires ou réduisent leur efficacité."
+  },
+  {
+    "cours_id": "Pharmacologie",
+    "question": "Citez un exemple d’interaction médicamenteuse dangereuse.",
+    "reponse": "Aspirine + anticoagulant = risque de saignement."
+  },
+  {
+    "cours_id": "Pharmacologie",
+    "question": "Quels sont les principaux types de médicaments selon leur fonction ?",
+    "reponse": "Analgésiques, antibiotiques, antihypertenseurs, antidiabétiques, anti-inflammatoires."
+  },
+  {
+    "cours_id": "Pharmacologie",
+    "question": "Quels facteurs influencent l’absorption d’un médicament ?",
+    "reponse": "Voie d’administration, solubilité, pH, présence de nourriture dans l’estomac."
+  },
+  {
+    "cours_id": "Pharmacologie",
+    "question": "Quelle est la principale voie d’élimination des médicaments ?",
+    "reponse": "Les reins, par l’urine."
+  },
+  {
+    "cours_id": "Pédiatrie",
+    "question": "À quel âge un enfant commence-t-il généralement à marcher ?",
+    "reponse": "Entre 10 et 15 mois en moyenne."
+  },
+  {
+    "cours_id": "Pédiatrie",
+    "question": "Quelles sont les étapes du développement de l’enfant ?",
+    "reponse": "Nouveau-né, nourrisson, petit enfant, enfant d’âge scolaire, adolescent."
+  },
+  {
+    "cours_id": "Pédiatrie",
+    "question": "Quels signes vitaux doit-on surveiller chez un enfant ?",
+    "reponse": "Température, pouls, tension artérielle, fréquence respiratoire et saturation en oxygène."
+  },
+  {
+    "cours_id": "Pédiatrie",
+    "question": "Quels sont les objectifs principaux des soins infirmiers pédiatriques ?",
+    "reponse": "Assurer la croissance et le développement, prévenir les maladies, surveiller l’état de santé et éduquer les parents."
+  },
+  {
+    "cours_id": "Pédiatrie",
+    "question": "Pourquoi le suivi du poids et de la taille est-il important ?",
+    "reponse": "Pour évaluer la croissance, détecter la malnutrition ou les retards de développement."
+  },
+  {
+    "cours_id": "Pédiatrie",
+    "question": "Quels vaccins sont essentiels dans la première année de vie ?",
+    "reponse": "BCG, polio, DTCaP, Hépatite B, pneumocoque, rotavirus selon le calendrier national."
+  },
+  {
+    "cours_id": "Pédiatrie",
+    "question": "Quels sont les signes d’alerte chez un nourrisson malade ?",
+    "reponse": "Fièvre élevée, refus de téter, somnolence excessive, difficultés respiratoires, vomissements persistants."
+  },
+  {
+    "cours_id": "Pédiatrie",
+    "question": "Quelle est la fréquence respiratoire normale chez un nourrisson ?",
+    "reponse": "Entre 30 et 60 respirations par minute."
+  }
+]
