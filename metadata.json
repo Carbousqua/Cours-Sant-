@@ -46,5 +46,15 @@
     "url": "https://github.com/Carbousqua/Cours-Sant-/blob/main/Cours/P%C3%A9diatrie/Introduction%20%C3%A0%20la%20P%C3%A9diatrie%20%F0%9F%93%9D.pdf"
       }
     ]
+  },
+  {
+    "categorie": "Gynécologie",
+    "description": "Spécialité médico-chirurgicale dédiée à la santé des femmes.",
+    "icon": "female",
+    "documents":[
+      "title": "Introduction à la Gynécologie",
+    "subtitle": "Principes fondamentaux",
+    "url": ""
+    ]
   }
 ]
