@@ -34,5 +34,11 @@
     "description": "Relation soignant-soigné et déontologie.",
     "icon": "psychology",
     "documents": []
+  },
+  {
+    "categorie": "Pédiatrie"
+    "description": "Soin infantines"
+    "icon": "child"
+    "document": []
   }
 ]
