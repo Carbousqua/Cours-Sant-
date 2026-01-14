@@ -39,7 +39,7 @@
     "categorie": "Pédiatrie",
     "description": "Soin infantines",
     "icon": "child",
-    "document": [
+    "documents": [
       {
     "title": "Introduction à la pédiatrie",
     "subtitle": "Principes fondamentaux",
