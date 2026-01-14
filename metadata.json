@@ -1,1 +1,38 @@
-
+[
+  {
+    "categorie": "Soins infirmiers",
+    "description": "Bases des soins, surveillance et gestes techniques.",
+    "icon": "medical_services",
+    "documents": [
+      {
+        "title": "Techniques de soins de base",
+        "subtitle": "Cours complet (PDF)",
+        "url": "https://raw.githubusercontent.com/Carbousqua/Cours-Sant-/main/Cours/Soin%20infirmier/Techniques%20de%20soins%20de%20base%20%EF%BF%BD.pdf"
+      }
+    ]
+  },
+  {
+    "categorie": "Pharmacologie",
+    "description": "Étude des médicaments et leurs effets.",
+    "icon": "medication",
+    "documents": [
+      {
+        "title": "Introduction à la pharmacologie",
+        "subtitle": "Principes fondamentaux",
+        "url": "https://raw.githubusercontent.com/Carbousqua/Cours-Sant-/main/Cours/Pharmacologie/Introduction%20%C3%A0%20la%20pharmacologie.pdf"
+      }
+    ]
+  },
+  {
+    "categorie": "Anatomie & Physiologie",
+    "description": "Le fonctionnement du corps humain.",
+    "icon": "biotech",
+    "documents": []
+  },
+  {
+    "categorie": "Psychologie & Éthique",
+    "description": "Relation soignant-soigné et déontologie.",
+    "icon": "psychology",
+    "documents": []
+  }
+]
