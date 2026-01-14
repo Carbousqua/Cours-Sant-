@@ -1,1 +1,201 @@
+[
+  {
+    "cours_id": "Pharmacologie",
+    "question": "Quel est le palier de l'aspirine ?",
+    "reponse": "Palier 1",
+    "options": ["Palier 1", "Palier 2", "Palier 3", "Palier 4"]
+  },
+  {
+    "cours_id": "Pharmacologie",
+    "question": "Quel médicament est un antalgique de palier 1 ?",
+    "reponse": "Paracétamol",
+    "options": ["Morphine", "Tramadol", "Paracétamol", "Codéine"]
+  },
+  {
+    "cours_id": "Pharmacologie",
+    "question": "Quel est le rôle principal d’un antibiotique ?",
+    "reponse": "Combattre les infections bactériennes",
+    "options": [
+      "Combattre les virus",
+      "Soulager la douleur",
+      "Combattre les infections bactériennes",
+      "Faire dormir le patient"
+    ]
+  },
+  {
+    "cours_id": "Pharmacologie",
+    "question": "Que signifie la voie orale ?",
+    "reponse": "Administration par la bouche",
+    "options": [
+      "Injection dans le muscle",
+      "Injection dans la veine",
+      "Administration par la bouche",
+      "Application sur la peau"
+    ]
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Quelle est la température corporelle normale chez l’adulte ?",
+    "reponse": "37°C",
+    "options": ["35°C", "36°C", "37°C", "39°C"]
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Quel est le premier geste avant tout soin ?",
+    "reponse": "Le lavage des mains",
+    "options": [
+      "Mettre des gants",
+      "Le lavage des mains",
+      "Préparer le matériel",
+      "Informer le patient"
+    ]
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Quelle constante mesure la saturation en oxygène ?",
+    "reponse": "SpO2",
+    "options": ["TA", "FR", "SpO2", "Pouls"]
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Quelle est la position recommandée pour un patient inconscient qui respire ?",
+    "reponse": "Position latérale de sécurité",
+    "options": [
+      "Décubitus dorsal",
+      "Position assise",
+      "Position latérale de sécurité",
+      "Position debout"
+    ]
+  },
+  {
+    "cours_id": "Pédiatrie",
+    "question": "À partir de quel âge parle-t-on de nouveau-né ?",
+    "reponse": "De la naissance à 28 jours",
+    "options": [
+      "0 à 7 jours",
+      "0 à 28 jours",
+      "0 à 1 an",
+      "0 à 2 ans"
+    ]
+  },
+  {
+    "cours_id": "Pédiatrie",
+    "question": "Quel est l’aliment idéal du nourrisson ?",
+    "reponse": "Le lait maternel",
+    "options": [
+      "Lait de vache",
+      "Lait artificiel",
+      "Le lait maternel",
+      "Bouillie"
+    ]
+  },
+  {
+    "cours_id": "Pédiatrie",
+    "question": "Quelle est la température normale chez le nourrisson ?",
+    "reponse": "36,5 à 37,5°C",
+    "options": [
+      "35 à 36°C",
+      "36,5 à 37,5°C",
+      "38 à 39°C",
+      "39 à 40°C"
+    ]
+  },
+  {
+    "cours_id": "Pédiatrie",
+    "question": "Quel vaccin est administré à la naissance ?",
+    "reponse": "BCG",
+    "options": ["ROR", "BCG", "VAT", "Polio"]
+  },
+  {
+    "cours_id": "Gynécologie",
+    "question": "Quel organe produit les ovules ?",
+    "reponse": "Les ovaires",
+    "options": ["Utérus", "Ovaires", "Vagin", "Trompes"]
+  },
+  {
+    "cours_id": "Gynécologie",
+    "question": "Quelle est la durée moyenne du cycle menstruel ?",
+    "reponse": "28 jours",
+    "options": ["21 jours", "24 jours", "28 jours", "35 jours"]
+  },
+  {
+    "cours_id": "Gynécologie",
+    "question": "Comment appelle-t-on l’arrêt définitif des règles ?",
+    "reponse": "Ménopause",
+    "options": ["Ovulation", "Puberté", "Ménopause", "Grossesse"]
+  },
+  {
+    "cours_id": "Gynécologie",
+    "question": "Quel est le rôle principal de l’utérus ?",
+    "reponse": "Accueillir et développer l’embryon",
+    "options": [
+      "Produire les hormones",
+      "Accueillir et développer l’embryon",
+      "Produire les ovules",
+      "Permettre la fécondation"
+    ]
+  },
+  {
+    "cours_id": "Pharmacologie",
+    "question": "Quel est le principal risque d’un surdosage médicamenteux ?",
+    "reponse": "L’intoxication",
+    "options": [
+      "La guérison rapide",
+      "L’intoxication",
+      "La vaccination",
+      "L’immunité"
+    ]
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Quelle constante mesure la pression artérielle ?",
+    "reponse": "TA",
+    "options": ["FR", "Pouls", "TA", "SpO2"]
+  },
+  {
+    "cours_id": "Soins infirmiers",
+    "question": "Quelle est la fréquence respiratoire normale chez l’adulte ?",
+    "reponse": "12 à 20 cycles/min",
+    "options": [
+      "5 à 10 cycles/min",
+      "12 à 20 cycles/min",
+      "20 à 30 cycles/min",
+      "30 à 40 cycles/min"
+    ]
+  },
+  {
+    "cours_id": "Pédiatrie",
+    "question": "À quel âge l’enfant commence généralement à marcher ?",
+    "reponse": "Entre 10 et 15 mois",
+    "options": [
+      "3 à 6 mois",
+      "6 à 9 mois",
+      "10 à 15 mois",
+      "18 à 24 mois"
+    ]
+  },
+  {
+    "cours_id": "Pédiatrie",
+    "question": "Quelle est la principale cause de déshydratation chez l’enfant ?",
+    "reponse": "La diarrhée",
+    "options": ["La fièvre", "La toux", "La diarrhée", "Le rhume"]
+  },
+  {
+    "cours_id": "Gynécologie",
+    "question": "Quel examen permet de dépister le cancer du col de l’utérus ?",
+    "reponse": "Frottis cervico-vaginal",
+    "options": [
+      "Échographie",
+      "Frottis cervico-vaginal",
+      "IRM",
+      "Scanner"
+    ]
+  },
+  {
+    "cours_id": "Gynécologie",
+    "question": "Quelle hormone déclenche l’ovulation ?",
+    "reponse": "LH",
+    "options": ["FSH", "LH", "Progestérone", "Œstrogène"]
+  }
+]
 
