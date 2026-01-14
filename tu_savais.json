@@ -1,1 +1,103 @@
+[
+  {
+    "titre": "Le saviez-vous ?",
+    "contenu": "Le fémur est l'os le plus long et le plus solide du corps humain.",
+    "categorie": "Anatomie"
+  },
+  {
+    "titre": "Conseil Hygiène",
+    "contenu": "Le lavage des mains est la première mesure de prévention des infections nosocomiales.",
+    "categorie": "Soins"
+  },
+  {
+    "titre": "Le saviez-vous ?",
+    "contenu": "Le cœur d’un nouveau-né bat presque deux fois plus vite que celui d’un adulte.",
+    "categorie": "Pédiatrie"
+  },
+  {
+    "titre": "Astuce Nutrition",
+    "contenu": "Boire un verre d’eau avant les repas peut aider à contrôler l’appétit et éviter la suralimentation.",
+    "categorie": "Santé générale"
+  },
+  {
+    "titre": "Conseil Hygiène",
+    "contenu": "Se brosser les dents deux fois par jour réduit le risque de caries et de maladies parodontales.",
+    "categorie": "Soins dentaires"
+  },
+  {
+    "titre": "Le saviez-vous ?",
+    "contenu": "Le cerveau humain contient environ 86 milliards de neurones.",
+    "categorie": "Anatomie"
+  },
+  {
+    "titre": "Prévention",
+    "contenu": "Le port du préservatif réduit le risque de transmission des infections sexuellement transmissibles (IST).",
+    "categorie": "Santé sexuelle"
+  },
+  {
+    "titre": "Le saviez-vous ?",
+    "contenu": "Les globules rouges vivent environ 120 jours dans le corps humain.",
+    "categorie": "Hématologie"
+  },
+  {
+    "titre": "Conseil Médical",
+    "contenu": "Ne jamais mélanger deux antibiotiques sans avis médical : cela peut réduire leur efficacité et provoquer des effets secondaires.",
+    "categorie": "Pharmacologie"
+  },
+  {
+    "titre": "Astuce Pédiatrie",
+    "contenu": "Allaiter un nourrisson favorise son système immunitaire et réduit le risque d’infections.",
+    "categorie": "Pédiatrie"
+  },
+  {
+    "titre": "Le saviez-vous ?",
+    "contenu": "Le foie est le seul organe capable de se régénérer après une perte de tissu.",
+    "categorie": "Anatomie"
+  },
+  {
+    "titre": "Conseil Hygiène",
+    "contenu": "Changer régulièrement les draps et les serviettes aide à prévenir la prolifération des bactéries et champignons.",
+    "categorie": "Soins"
+  },
+  {
+    "titre": "Prévention",
+    "contenu": "Le vaccin contre la grippe doit être renouvelé chaque année pour rester efficace.",
+    "categorie": "Vaccination"
+  },
+  {
+    "titre": "Le saviez-vous ?",
+    "contenu": "Le système immunitaire des enfants est encore en développement et nécessite des vaccins pour se renforcer.",
+    "categorie": "Pédiatrie"
+  },
+  {
+    "titre": "Astuce Santé",
+    "contenu": "Dormir entre 7 et 9 heures par nuit améliore la mémoire, l’humeur et la santé globale.",
+    "categorie": "Bien-être"
+  },
+  {
+    "titre": "Conseil Pharmacie",
+    "contenu": "Toujours vérifier la date de péremption avant de prendre un médicament.",
+    "categorie": "Pharmacologie"
+  },
+  {
+    "titre": "Le saviez-vous ?",
+    "contenu": "La peau est le plus grand organe du corps humain et protège contre les infections.",
+    "categorie": "Anatomie"
+  },
+  {
+    "titre": "Astuce Hygiène",
+    "contenu": "Se laver les mains correctement prend environ 20 secondes avec du savon.",
+    "categorie": "Soins"
+  },
+  {
+    "titre": "Le saviez-vous ?",
+    "contenu": "Le sang représente environ 7 % du poids corporel chez l’adulte.",
+    "categorie": "Hématologie"
+  },
+  {
+    "titre": "Conseil Santé",
+    "contenu": "Faire de l’exercice régulièrement renforce le cœur, les muscles et les articulations.",
+    "categorie": "Bien-être"
+  }
+]
 
