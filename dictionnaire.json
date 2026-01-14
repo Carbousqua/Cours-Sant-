@@ -1,1 +1,227 @@
+[
+  {
+    "mot": "Abduction",
+    "definition": "Mouvement qui écarte un membre ou un segment de membre de la ligne médiane du corps."
+  },
+  {
+    "mot": "Bradycardie",
+    "definition": "Ralentissement du rythme cardiaque au-dessous de 60 battements par minute."
+  },
+  {
+    "mot": "Cyanose",
+    "definition": "Coloration bleutée de la peau et des muqueuses due à une oxygénation insuffisante du sang."
+  },
+  {
+    "mot": "Dyspnée",
+    "definition": "Difficulté ou gêne respiratoire, sensation d’essoufflement."
+  },
+  {
+    "mot": "Énurésie",
+    "definition": "Émission involontaire d’urine, le plus souvent nocturne."
+  },
+  {
+    "mot": "Fièvre",
+    "definition": "Élévation de la température corporelle au-dessus de la normale (≥ 38 °C)."
+  },
+  {
+    "mot": "Glycémie",
+    "definition": "Taux de glucose présent dans le sang."
+  },
+  {
+    "mot": "Hématome",
+    "definition": "Accumulation de sang à l’intérieur des tissus, causant un gonflement et une coloration bleue ou violette."
+  },
+  {
+    "mot": "Hypotension",
+    "definition": "Pression artérielle inférieure à la normale, souvent inférieure à 90/60 mmHg."
+  },
+  {
+    "mot": "Hyperthermie",
+    "definition": "Élévation anormale de la température corporelle, non liée à une infection."
+  },
+  {
+    "mot": "Infarctus",
+    "definition": "Nécrose d’un tissu due à une obstruction de l’apport sanguin, souvent utilisé pour le cœur (infarctus du myocarde)."
+  },
+  {
+    "mot": "Ischémie",
+    "definition": "Diminution ou interruption de l’apport sanguin à un organe ou tissu."
+  },
+  {
+    "mot": "Jaundice",
+    "definition": "Coloration jaune de la peau et des yeux due à une accumulation de bilirubine dans le sang."
+  },
+  {
+    "mot": "Laparotomie",
+    "definition": "Incision chirurgicale de la paroi abdominale pour explorer ou opérer les organes internes."
+  },
+  {
+    "mot": "Leucocytose",
+    "definition": "Augmentation anormale du nombre de globules blancs dans le sang."
+  },
+  {
+    "mot": "Myalgie",
+    "definition": "Douleur musculaire."
+  },
+  {
+    "mot": "Néphrite",
+    "definition": "Inflammation du rein."
+  },
+  {
+    "mot": "Oligurie",
+    "definition": "Diminution anormale de la quantité d’urine excrétée."
+  },
+  {
+    "mot": "Orthopnée",
+    "definition": "Difficulté respiratoire qui survient en position allongée."
+  },
+  {
+    "mot": "Palpitations",
+    "definition": "Perception inhabituelle des battements du cœur, rapides ou irréguliers."
+  },
+  {
+    "mot": "Parésie",
+    "definition": "Faiblesse partielle d’un muscle ou d’un groupe musculaire."
+  },
+  {
+    "mot": "Paresthésie",
+    "definition": "Sensation anormale de picotement, fourmillement ou engourdissement."
+  },
+  {
+    "mot": "Polyurie",
+    "definition": "Émission excessive d’urine."
+  },
+  {
+    "mot": "Prolapsus",
+    "definition": "Chute ou descente d’un organe par rapport à sa position normale."
+  },
+  {
+    "mot": "Pyrexie",
+    "definition": "Élévation de la température corporelle, synonyme de fièvre."
+  },
+  {
+    "mot": "Saturation",
+    "definition": "Taux d’oxygène dans le sang, exprimé en pourcentage."
+  },
+  {
+    "mot": "Sepsis",
+    "definition": "Réaction inflammatoire systémique grave du corps à une infection."
+  },
+  {
+    "mot": "Spasme",
+    "definition": "Contraction involontaire et douloureuse d’un muscle ou groupe musculaire."
+  },
+  {
+    "mot": "Syncope",
+    "definition": "Perte de conscience brève due à une diminution du flux sanguin cérébral."
+  },
+  {
+    "mot": "Tachycardie",
+    "definition": "Augmentation du rythme cardiaque au-dessus de 100 battements par minute."
+  },
+  {
+    "mot": "Thrombose",
+    "definition": "Formation d’un caillot sanguin dans un vaisseau."
+  },
+  {
+    "mot": "Toux",
+    "definition": "Réflexe respiratoire destiné à expulser des sécrétions ou corps étrangers des voies respiratoires."
+  },
+  {
+    "mot": "Ultrason",
+    "definition": "Technique d’imagerie médicale utilisant des ondes sonores pour visualiser les organes internes."
+  },
+  {
+    "mot": "Urticaire",
+    "definition": "Réaction cutanée avec plaques rouges et démangeaisons, souvent allergique."
+  },
+  {
+    "mot": "Vasodilatation",
+    "definition": "Dilatation des vaisseaux sanguins entraînant une augmentation du flux sanguin."
+  },
+  {
+    "mot": "Vasoconstriction",
+    "definition": "Rétrécissement des vaisseaux sanguins entraînant une diminution du flux sanguin."
+  },
+  {
+    "mot": "Vertige",
+    "definition": "Sensation de déséquilibre ou de rotation du corps ou de l’environnement."
+  },
+  {
+    "mot": "Vomissement",
+    "definition": "Expulsion forcée du contenu de l’estomac par la bouche."
+  },
+  {
+    "mot": "Xérostomie",
+    "definition": "Sécheresse de la bouche due à une diminution de la salivation."
+  },
+  {
+    "mot": "Zona",
+    "definition": "Infection virale causée par la réactivation du virus varicelle-zona, provoquant une éruption cutanée douloureuse."
+  },
+  {
+    "mot": "Angine",
+    "definition": "Inflammation des amygdales ou gorge, souvent due à une infection bactérienne ou virale."
+  },
+  {
+    "mot": "Asthme",
+    "definition": "Maladie inflammatoire chronique des bronches provoquant une respiration sifflante, toux et essoufflement."
+  },
+  {
+    "mot": "Bronchite",
+    "definition": "Inflammation des bronches, aiguë ou chronique, provoquant toux et expectoration."
+  },
+  {
+    "mot": "Coma",
+    "definition": "État d’inconscience profonde et prolongée avec absence de réaction aux stimuli."
+  },
+  {
+    "mot": "Constipation",
+    "definition": "Difficulté ou retard dans l’évacuation des selles."
+  },
+  {
+    "mot": "Diabète",
+    "definition": "Maladie caractérisée par une hyperglycémie chronique due à un déficit en insuline ou à une résistance à l’insuline."
+  },
+  {
+    "mot": "Dysphagie",
+    "definition": "Difficulté à avaler les aliments ou les liquides."
+  },
+  {
+    "mot": "Édème",
+    "definition": "Accumulation anormale de liquide dans les tissus entraînant un gonflement."
+  },
+  {
+    "mot": "Endoscopie",
+    "definition": "Examen visuel de l’intérieur d’un organe ou d’une cavité corporelle à l’aide d’un endoscope."
+  },
+  {
+    "mot": "Fibrose",
+    "definition": "Formation excessive de tissu conjonctif dans un organe, entraînant sa rigidité."
+  },
+  {
+    "mot": "Gastrite",
+    "definition": "Inflammation de la muqueuse de l’estomac."
+  },
+  {
+    "mot": "Hémorragie",
+    "definition": "Perte de sang par un vaisseau sanguin, interne ou externe."
+  },
+  {
+    "mot": "Hypertension",
+    "definition": "Pression artérielle supérieure à la normale, souvent supérieure à 140/90 mmHg."
+  },
+  {
+    "mot": "Hypoglycémie",
+    "definition": "Diminution du taux de glucose dans le sang en dessous des valeurs normales."
+  },
+  {
+    "mot": "Immunodépression",
+    "definition": "Affaiblissement du système immunitaire, rendant l’organisme plus sensible aux infections."
+  },
+  {
+    "mot": "Insomnie",
+    "definition": "Difficulté à s’endormir ou à maintenir le sommeil."
+  }
+]
 
