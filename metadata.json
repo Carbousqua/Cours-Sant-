@@ -36,9 +36,9 @@
     "documents": []
   },
   {
-    "categorie": "Pédiatrie"
-    "description": "Soin infantines"
-    "icon": "child"
+    "categorie": "Pédiatrie",
+    "description": "Soin infantines",
+    "icon": "child",
     "document": []
   }
 ]
