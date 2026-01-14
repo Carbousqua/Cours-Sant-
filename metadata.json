@@ -39,6 +39,12 @@
     "categorie": "Pédiatrie",
     "description": "Soin infantines",
     "icon": "child",
-    "document": []
+    "document": [
+      {
+    "title": "Introduction à la pédiatrie",
+    "subtitle": "Principes fondamentaux",
+    "url": "https://github.com/Carbousqua/Cours-Sant-/blob/main/Cours/P%C3%A9diatrie/Introduction%20%C3%A0%20la%20P%C3%A9diatrie%20%F0%9F%93%9D.pdf"
+      }
+    ]
   }
 ]
