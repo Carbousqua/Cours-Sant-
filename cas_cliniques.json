@@ -1,211 +1,60 @@
 [
   {
-    "titre": "Gastro-entérite & Déshydratation",
+    "titre": "Gastro-entérite aiguë avec déshydratation",
     "categorie": "PÉDIATRIE",
-    "presentation": "Enfant de 3 ans avec diarrhée aqueuse, vomissements et fièvre depuis 2 jours.",
-    "antecedents": "Vaccinations incomplètes. Aucun traitement.",
-    "examen_clinique": "Température 39°C, FC 130 bpm, muqueuses sèches, pli cutané lent.",
+    "presentation": "Un enfant de 3 ans, de sexe masculin, est amené au centre de santé par sa mère pour une fièvre à 39°C depuis 2 jours, une diarrhée aqueuse (5 selles par jour), des vomissements répétés et un refus de s’alimenter.",
+    "antecedents": "Aucun antécédent médical connu. Vaccinations incomplètes. Pas de traitement en cours.",
+    "examen_clinique": "Température : 39°C. Fréquence cardiaque : 130 battements/min. Fréquence respiratoire : 32 cycles/min. Muqueuses sèches. Yeux légèrement enfoncés. Pli cutané lent.",
     "questions_reponses": [
       {
-        "question": "Quel est le diagnostic le plus probable ?",
+        "question": "Quel est le diagnostic le plus probable chez cet enfant ?",
         "options": [
-          "Paludisme",
-          "Gastro-entérite aiguë avec déshydratation",
-          "Méningite",
-          "Pneumonie"
+          "Paludisme simple",
+          "Gastro-entérite aiguë avec déshydratation modérée",
+          "Méningite bactérienne",
+          "Pneumonie aiguë"
         ],
-        "reponse": "Gastro-entérite aiguë avec déshydratation"
+        "reponse": "Gastro-entérite aiguë avec déshydratation modérée"
       },
       {
-        "question": "Quel est le principal danger ?",
+        "question": "Quels signes cliniques indiquent une déshydratation ?",
         "options": [
-          "Anémie",
+          "Fièvre et toux",
+          "Muqueuses sèches et pli cutané lent",
+          "Éruption cutanée",
+          "Œdèmes des membres inférieurs"
+        ],
+        "reponse": "Muqueuses sèches et pli cutané lent"
+      },
+      {
+        "question": "Quel est le principal risque évolutif chez cet enfant ?",
+        "options": [
+          "Anémie sévère",
           "Choc hypovolémique",
-          "Convulsion",
-          "Constipation"
+          "Asthme",
+          "Constipation chronique"
         ],
         "reponse": "Choc hypovolémique"
-      }
-    ]
-  },
-  {
-    "titre": "Paludisme simple de l’enfant",
-    "categorie": "PÉDIATRIE",
-    "presentation": "Enfant de 5 ans avec fièvre élevée, frissons et céphalées.",
-    "antecedents": "Aucun antécédent particulier.",
-    "examen_clinique": "Température 40°C, pâleur, test rapide positif.",
-    "questions_reponses": [
-      {
-        "question": "Quel est le diagnostic ?",
-        "options": [
-          "Fièvre typhoïde",
-          "Paludisme simple",
-          "Méningite",
-          "Septicémie"
-        ],
-        "reponse": "Paludisme simple"
       },
       {
-        "question": "Quel traitement est indiqué ?",
+        "question": "Quelle est la prise en charge infirmière immédiate recommandée ?",
         "options": [
-          "Antibiotique injectable",
-          "Antipaludique oral",
-          "Antiviral",
-          "Aucun traitement"
+          "Administration d’antibiotiques injectables",
+          "Réhydratation orale avec SRO et surveillance",
+          "Restriction hydrique",
+          "Repos strict sans traitement"
         ],
-        "reponse": "Antipaludique oral"
-      }
-    ]
-  },
-  {
-    "titre": "Infection respiratoire aiguë",
-    "categorie": "PÉDIATRIE",
-    "presentation": "Nourrisson de 8 mois avec toux, fièvre et difficultés respiratoires.",
-    "antecedents": "Naissance à terme.",
-    "examen_clinique": "FR 55/min, tirage intercostal, crépitants.",
-    "questions_reponses": [
+        "reponse": "Réhydratation orale avec SRO et surveillance"
+      },
       {
-        "question": "Quel est le diagnostic probable ?",
+        "question": "Quel conseil doit être donné à la mère avant le retour à domicile ?",
         "options": [
-          "Asthme",
-          "Bronchiolite",
-          "Tuberculose",
-          "RGO"
+          "Arrêter toute alimentation",
+          "Donner uniquement de l’eau",
+          "Continuer l’hydratation et consulter en cas d’aggravation",
+          "Utiliser des médicaments traditionnels"
         ],
-        "reponse": "Bronchiolite"
-      }
-    ]
-  },
-  {
-    "titre": "Anémie chez la femme enceinte",
-    "categorie": "GYNÉCOLOGIE",
-    "presentation": "Femme enceinte de 24 SA avec fatigue et vertiges.",
-    "antecedents": "Grossesse non suivie.",
-    "examen_clinique": "Pâleur conjonctivale, Hb basse.",
-    "questions_reponses": [
-      {
-        "question": "Quelle est la cause la plus probable ?",
-        "options": [
-          "Carence en fer",
-          "Infection",
-          "Hypertension",
-          "Diabète"
-        ],
-        "reponse": "Carence en fer"
-      }
-    ]
-  },
-  {
-    "titre": "Pré-éclampsie",
-    "categorie": "GYNÉCOLOGIE",
-    "presentation": "Femme enceinte de 32 SA avec céphalées et œdèmes.",
-    "antecedents": "Primigeste.",
-    "examen_clinique": "TA 160/100 mmHg, protéinurie.",
-    "questions_reponses": [
-      {
-        "question": "Quel est le diagnostic ?",
-        "options": [
-          "HTA chronique",
-          "Pré-éclampsie",
-          "Diabète gestationnel",
-          "Anémie"
-        ],
-        "reponse": "Pré-éclampsie"
-      }
-    ]
-  },
-  {
-    "titre": "Diabète de type 2",
-    "categorie": "MÉDECINE GÉNÉRALE",
-    "presentation": "Homme de 50 ans avec polyurie et polydipsie.",
-    "antecedents": "Surpoids.",
-    "examen_clinique": "Glycémie élevée.",
-    "questions_reponses": [
-      {
-        "question": "Quel examen confirme le diagnostic ?",
-        "options": [
-          "NFS",
-          "Glycémie à jeun",
-          "Radiographie",
-          "ECG"
-        ],
-        "reponse": "Glycémie à jeun"
-      }
-    ]
-  },
-  {
-    "titre": "Hypertension artérielle",
-    "categorie": "SOINS INFIRMIERS",
-    "presentation": "Patient de 60 ans asymptomatique.",
-    "antecedents": "Tabagisme.",
-    "examen_clinique": "TA 170/100 mmHg.",
-    "questions_reponses": [
-      {
-        "question": "Quelle action infirmière est prioritaire ?",
-        "options": [
-          "Repos et recontrôle de la TA",
-          "Injection immédiate",
-          "Hospitalisation d’office",
-          "Aucune action"
-        ],
-        "reponse": "Repos et recontrôle de la TA"
-      }
-    ]
-  },
-  {
-    "titre": "Infection urinaire",
-    "categorie": "MÉDECINE GÉNÉRALE",
-    "presentation": "Femme de 30 ans avec brûlures mictionnelles.",
-    "antecedents": "Aucun.",
-    "examen_clinique": "BU positive.",
-    "questions_reponses": [
-      {
-        "question": "Quel traitement est indiqué ?",
-        "options": [
-          "Antibiotique",
-          "Antipaludique",
-          "Antiviral",
-          "Repos seul"
-        ],
-        "reponse": "Antibiotique"
-      }
-    ]
-  },
-  {
-    "titre": "Convulsion fébrile",
-    "categorie": "PÉDIATRIE",
-    "presentation": "Enfant de 2 ans avec crise convulsive sur fièvre.",
-    "antecedents": "Aucun.",
-    "examen_clinique": "Température 39,5°C.",
-    "questions_reponses": [
-      {
-        "question": "Quelle est la cause probable ?",
-        "options": [
-          "Épilepsie",
-          "Convulsion fébrile",
-          "Traumatisme",
-          "Hypoglycémie"
-        ],
-        "reponse": "Convulsion fébrile"
-      }
-    ]
-  },
-  {
-    "titre": "Plaie infectée",
-    "categorie": "SOINS INFIRMIERS",
-    "presentation": "Patient avec plaie suppurante du pied.",
-    "antecedents": "Diabète.",
-    "examen_clinique": "Rougeur, chaleur, pus.",
-    "questions_reponses": [
-      {
-        "question": "Quel soin est prioritaire ?",
-        "options": [
-          "Nettoyage et désinfection",
-          "Suture",
-          "Aucun soin",
-          "Massage"
-        ],
-        "reponse": "Nettoyage et désinfection"
+        "reponse": "Continuer l’hydratation et consulter en cas d’aggravation"
       }
     ]
   }
