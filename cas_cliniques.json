@@ -1,60 +1,237 @@
 [
   {
-    "titre": "Gastro-entérite aiguë avec déshydratation",
+    "titre": "Paludisme simple chez l’enfant",
     "categorie": "PÉDIATRIE",
-    "presentation": "Un enfant de 3 ans, de sexe masculin, est amené au centre de santé par sa mère pour une fièvre à 39°C depuis 2 jours, une diarrhée aqueuse (5 selles par jour), des vomissements répétés et un refus de s’alimenter.",
-    "antecedents": "Aucun antécédent médical connu. Vaccinations incomplètes. Pas de traitement en cours.",
-    "examen_clinique": "Température : 39°C. Fréquence cardiaque : 130 battements/min. Fréquence respiratoire : 32 cycles/min. Muqueuses sèches. Yeux légèrement enfoncés. Pli cutané lent.",
+    "presentation": "Un enfant de 6 ans est amené au centre de santé pour une fièvre élevée à 40°C, frissons, céphalées et vomissements.",
+    "antecedents": "Aucun antécédent particulier. Pas de traitement en cours.",
+    "examen_clinique": "Température : 40°C. FC : 120 bpm. Test de diagnostic rapide du paludisme positif.",
     "questions_reponses": [
       {
-        "question": "Quel est le diagnostic le plus probable chez cet enfant ?",
+        "question": "Quel est le diagnostic le plus probable ?",
         "options": [
+          "Fièvre typhoïde",
           "Paludisme simple",
-          "Gastro-entérite aiguë avec déshydratation modérée",
-          "Méningite bactérienne",
-          "Pneumonie aiguë"
+          "Méningite",
+          "Infection urinaire"
         ],
-        "reponse": "Gastro-entérite aiguë avec déshydratation modérée"
+        "reponse": "Paludisme simple"
       },
       {
-        "question": "Quels signes cliniques indiquent une déshydratation ?",
+        "question": "Quel examen confirme ce diagnostic ?",
         "options": [
-          "Fièvre et toux",
-          "Muqueuses sèches et pli cutané lent",
-          "Éruption cutanée",
-          "Œdèmes des membres inférieurs"
+          "NFS",
+          "Test de diagnostic rapide",
+          "Radiographie pulmonaire",
+          "ECG"
         ],
-        "reponse": "Muqueuses sèches et pli cutané lent"
+        "reponse": "Test de diagnostic rapide"
       },
       {
-        "question": "Quel est le principal risque évolutif chez cet enfant ?",
+        "question": "Quel est le traitement recommandé ?",
         "options": [
-          "Anémie sévère",
-          "Choc hypovolémique",
+          "Antibiotique injectable",
+          "Antipaludique oral",
+          "Antiviral",
+          "Antifongique"
+        ],
+        "reponse": "Antipaludique oral"
+      },
+      {
+        "question": "Quel signe indique une forme grave ?",
+        "options": [
+          "Fièvre isolée",
+          "Convulsions ou coma",
+          "Toux sèche",
+          "Diarrhée simple"
+        ],
+        "reponse": "Convulsions ou coma"
+      },
+      {
+        "question": "Quel conseil donner aux parents ?",
+        "options": [
+          "Arrêter le traitement dès amélioration",
+          "Respecter la durée du traitement",
+          "Donner uniquement des plantes",
+          "Éviter toute hydratation"
+        ],
+        "reponse": "Respecter la durée du traitement"
+      }
+    ]
+  },
+  {
+    "titre": "Bronchiolite du nourrisson",
+    "categorie": "PÉDIATRIE",
+    "presentation": "Nourrisson de 9 mois présentant toux, difficultés respiratoires et fièvre modérée.",
+    "antecedents": "Naissance à terme, allaitement mixte.",
+    "examen_clinique": "FR : 55 cycles/min, tirage intercostal, sibilants à l’auscultation.",
+    "questions_reponses": [
+      {
+        "question": "Quel est le diagnostic le plus probable ?",
+        "options": [
           "Asthme",
-          "Constipation chronique"
+          "Bronchiolite",
+          "Pneumonie",
+          "Tuberculose"
         ],
-        "reponse": "Choc hypovolémique"
+        "reponse": "Bronchiolite"
       },
       {
-        "question": "Quelle est la prise en charge infirmière immédiate recommandée ?",
+        "question": "Quel est l’agent le plus souvent en cause ?",
         "options": [
-          "Administration d’antibiotiques injectables",
-          "Réhydratation orale avec SRO et surveillance",
-          "Restriction hydrique",
-          "Repos strict sans traitement"
+          "Bactérie",
+          "Virus respiratoire syncytial",
+          "Champignon",
+          "Parasite"
         ],
-        "reponse": "Réhydratation orale avec SRO et surveillance"
+        "reponse": "Virus respiratoire syncytial"
       },
       {
-        "question": "Quel conseil doit être donné à la mère avant le retour à domicile ?",
+        "question": "Quelle prise en charge est prioritaire ?",
         "options": [
-          "Arrêter toute alimentation",
-          "Donner uniquement de l’eau",
-          "Continuer l’hydratation et consulter en cas d’aggravation",
-          "Utiliser des médicaments traditionnels"
+          "Antibiothérapie",
+          "Oxygénothérapie si nécessaire",
+          "Chirurgie",
+          "Corticothérapie systématique"
         ],
-        "reponse": "Continuer l’hydratation et consulter en cas d’aggravation"
+        "reponse": "Oxygénothérapie si nécessaire"
+      },
+      {
+        "question": "Quel signe indique une détresse respiratoire ?",
+        "options": [
+          "Toux sèche",
+          "Tirage et polypnée",
+          "Éternuement",
+          "Hoquet"
+        ],
+        "reponse": "Tirage et polypnée"
+      },
+      {
+        "question": "Quel conseil de prévention donner aux parents ?",
+        "options": [
+          "Éviter le tabagisme passif",
+          "Donner des antibiotiques",
+          "Limiter l’hydratation",
+          "Arrêter l’allaitement"
+        ],
+        "reponse": "Éviter le tabagisme passif"
+      }
+    ]
+  },
+  {
+    "titre": "Convulsion fébrile",
+    "categorie": "PÉDIATRIE",
+    "presentation": "Enfant de 2 ans ayant présenté une crise convulsive généralisée associée à une fièvre élevée.",
+    "antecedents": "Aucun antécédent neurologique.",
+    "examen_clinique": "Température : 39,5°C. Examen neurologique normal après la crise.",
+    "questions_reponses": [
+      {
+        "question": "Quel est le diagnostic le plus probable ?",
+        "options": [
+          "Épilepsie",
+          "Convulsion fébrile",
+          "Méningite",
+          "Hypoglycémie"
+        ],
+        "reponse": "Convulsion fébrile"
+      },
+      {
+        "question": "Quel âge est le plus concerné ?",
+        "options": [
+          "Nouveau-né",
+          "6 mois à 5 ans",
+          "Adolescent",
+          "Adulte"
+        ],
+        "reponse": "6 mois à 5 ans"
+      },
+      {
+        "question": "Quel examen est indispensable en première intention ?",
+        "options": [
+          "IRM",
+          "Prise de température",
+          "Scanner cérébral",
+          "EEG systématique"
+        ],
+        "reponse": "Prise de température"
+      },
+      {
+        "question": "Quelle est la conduite immédiate ?",
+        "options": [
+          "Refroidir l’enfant et surveiller",
+          "Donner des antibiotiques",
+          "Hospitaliser systématiquement",
+          "Aucun soin"
+        ],
+        "reponse": "Refroidir l’enfant et surveiller"
+      },
+      {
+        "question": "Quel message rassurant donner aux parents ?",
+        "options": [
+          "C’est une maladie mortelle",
+          "Risque élevé d’épilepsie",
+          "Évolution souvent bénigne",
+          "Handicap certain"
+        ],
+        "reponse": "Évolution souvent bénigne"
+      }
+    ]
+  },
+  {
+    "titre": "Anémie chez l’enfant",
+    "categorie": "PÉDIATRIE",
+    "presentation": "Enfant de 4 ans avec fatigue, pâleur et essoufflement à l’effort.",
+    "antecedents": "Alimentation pauvre en fer.",
+    "examen_clinique": "Pâleur cutanéo-muqueuse, Hb basse à la NFS.",
+    "questions_reponses": [
+      {
+        "question": "Quel est le diagnostic probable ?",
+        "options": [
+          "Leucémie",
+          "Anémie ferriprive",
+          "Paludisme grave",
+          "Déshydratation"
+        ],
+        "reponse": "Anémie ferriprive"
+      },
+      {
+        "question": "Quelle est la cause principale ?",
+        "options": [
+          "Carence en fer",
+          "Infection virale",
+          "Excès de vitamines",
+          "Traumatisme"
+        ],
+        "reponse": "Carence en fer"
+      },
+      {
+        "question": "Quel examen confirme le diagnostic ?",
+        "options": [
+          "Glycémie",
+          "NFS",
+          "Radiographie",
+          "ECG"
+        ],
+        "reponse": "NFS"
+      },
+      {
+        "question": "Quel traitement est indiqué ?",
+        "options": [
+          "Fer oral",
+          "Antibiotique",
+          "Antipaludique",
+          "Chirurgie"
+        ],
+        "reponse": "Fer oral"
+      },
+      {
+        "question": "Quel conseil nutritionnel donner ?",
+        "options": [
+          "Augmenter les aliments riches en fer",
+          "Supprimer les légumes",
+          "Éviter les protéines",
+          "Boire uniquement de l’eau"
+        ],
+        "reponse": "Augmenter les aliments riches en fer"
       }
     ]
   }
