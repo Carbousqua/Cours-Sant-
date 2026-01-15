@@ -1,1 +1,19 @@
-
+[
+  {
+    "titre": "Gastro-entérite pédiatrique",
+    "categorie": "PÉDIATRIE",
+    "presentation": "Un enfant de 3 ans, de sexe masculin, est amené au centre de santé par sa mère pour : Fièvre à 39°C depuis 2 jours, Diarrhée aqueuse (5 selles/jour), Vomissements, Refus de s’alimenter.",
+    "antecedents": "Aucun antécédent médical connu. Vaccinations incomplètes. Pas de traitement en cours.",
+    "examen_clinique": "Température : 39°C. Fréquence cardiaque : 130 bpm. Fréquence respiratoire : 32 cycles/min. Muqueuses sèches. Yeux légèrement enfoncés. Pli cutané lent.",
+    "questions_reponses": [
+      {
+        "question": "Quel est le diagnostic le plus probable ?",
+        "reponse": "Gastro-entérite aiguë avec déshydratation modérée."
+      },
+      {
+        "question": "Quels sont les signes de gravité à rechercher ?",
+        "reponse": "Somnolence ou agitation, absence d’urines, pli cutané très lent, yeux très enfoncés, refus total de boire."
+      }
+    ]
+  }
+]
