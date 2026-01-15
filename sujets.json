@@ -1,1 +1,253 @@
+[
+  {
+    "id": "1",
+    "titre": "Examen Pathologie Générale",
+    "description": "Questions sur les mécanismes des maladies.",
+    "questions": [
+      {
+        "question": "Quel est le premier signe classique de l'inflammation ?",
+        "options": ["Chaleur", "Douleur", "Rougeur", "Œdème"],
+        "reponse": "Rougeur"
+      },
+      {
+        "question": "Comment appelle-t-on une augmentation de la température corporelle ?",
+        "options": ["Hypothermie", "Fièvre", "Cyanose", "Anémie"],
+        "reponse": "Fièvre"
+      },
+      {
+        "question": "Quelle est la cause la plus fréquente de l'anémie ?",
+        "options": ["Carence en fer", "Excès de vitamines", "Infection virale", "Hypertension"],
+        "reponse": "Carence en fer"
+      },
+      {
+        "question": "Quel organe est principalement touché dans l'hépatite ?",
+        "options": ["Rein", "Cœur", "Foie", "Poumon"],
+        "reponse": "Foie"
+      },
+      {
+        "question": "La douleur est considérée comme :",
+        "options": ["Un signe subjectif", "Un signe objectif", "Une maladie", "Un symptôme visuel"],
+        "reponse": "Un signe subjectif"
+      },
+      {
+        "question": "Qu'est-ce qu'une infection ?",
+        "options": [
+          "Une inflammation non microbienne",
+          "La présence de micro-organismes pathogènes",
+          "Une allergie",
+          "Un traumatisme"
+        ],
+        "reponse": "La présence de micro-organismes pathogènes"
+      },
+      {
+        "question": "Quel est le rôle principal des globules blancs ?",
+        "options": ["Transporter l'oxygène", "Défense immunitaire", "Coagulation", "Nutrition"],
+        "reponse": "Défense immunitaire"
+      },
+      {
+        "question": "Une tumeur est :",
+        "options": [
+          "Toujours cancéreuse",
+          "Une augmentation de volume d’un tissu",
+          "Une infection",
+          "Une inflammation aiguë"
+        ],
+        "reponse": "Une augmentation de volume d’un tissu"
+      },
+      {
+        "question": "Quel terme désigne un gonflement localisé ?",
+        "options": ["Œdème", "Fièvre", "Cyanose", "Dyspnée"],
+        "reponse": "Œdème"
+      },
+      {
+        "question": "La septicémie est :",
+        "options": [
+          "Une infection généralisée grave",
+          "Une maladie virale bénigne",
+          "Une allergie",
+          "Une intoxication alimentaire"
+        ],
+        "reponse": "Une infection généralisée grave"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "titre": "Examen Pédiatrie",
+    "description": "Questions sur la santé de l’enfant.",
+    "questions": [
+      {
+        "question": "À partir de quel âge parle-t-on de nourrisson ?",
+        "options": ["0 à 28 jours", "1 à 12 mois", "1 à 5 ans", "5 à 10 ans"],
+        "reponse": "1 à 12 mois"
+      },
+      {
+        "question": "Quelle est la température normale chez l’enfant ?",
+        "options": ["35°C", "36,5 à 37,5°C", "38°C", "39°C"],
+        "reponse": "36,5 à 37,5°C"
+      },
+      {
+        "question": "La déshydratation chez l’enfant se manifeste par :",
+        "options": [
+          "Muqueuses humides",
+          "Pli cutané lent",
+          "Appétit augmenté",
+          "Prise de poids"
+        ],
+        "reponse": "Pli cutané lent"
+      },
+      {
+        "question": "Quel est le vaccin donné à la naissance ?",
+        "options": ["BCG", "ROR", "VAT", "Polio injectable"],
+        "reponse": "BCG"
+      },
+      {
+        "question": "La convulsion fébrile survient généralement :",
+        "options": [
+          "Sans fièvre",
+          "Avec fièvre élevée",
+          "Après un traumatisme",
+          "Chez l’adulte"
+        ],
+        "reponse": "Avec fièvre élevée"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "titre": "Examen Pharmacologie",
+    "description": "Questions sur les médicaments.",
+    "questions": [
+      {
+        "question": "Le paracétamol est un :",
+        "options": ["Antibiotique", "Antalgique", "Antiviral", "Antifongique"],
+        "reponse": "Antalgique"
+      },
+      {
+        "question": "Quel est le palier du paracétamol ?",
+        "options": ["Palier 1", "Palier 2", "Palier 3", "Palier 4"],
+        "reponse": "Palier 1"
+      },
+      {
+        "question": "Les antibiotiques agissent sur :",
+        "options": ["Les virus", "Les bactéries", "Les parasites", "Les cellules humaines"],
+        "reponse": "Les bactéries"
+      },
+      {
+        "question": "Quel est le risque d’un surdosage en paracétamol ?",
+        "options": [
+          "Atteinte hépatique",
+          "Atteinte pulmonaire",
+          "Atteinte cardiaque",
+          "Aucun risque"
+        ],
+        "reponse": "Atteinte hépatique"
+      },
+      {
+        "question": "Un effet secondaire est :",
+        "options": [
+          "Toujours bénéfique",
+          "Un effet non recherché du médicament",
+          "Un échec thérapeutique",
+          "Une erreur médicale"
+        ],
+        "reponse": "Un effet non recherché du médicament"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "titre": "Examen Gynécologie",
+    "description": "Questions sur la santé de la femme.",
+    "questions": [
+      {
+        "question": "La durée normale du cycle menstruel est en moyenne de :",
+        "options": ["14 jours", "21 jours", "28 jours", "40 jours"],
+        "reponse": "28 jours"
+      },
+      {
+        "question": "La grossesse dure environ :",
+        "options": ["6 mois", "7 mois", "9 mois", "12 mois"],
+        "reponse": "9 mois"
+      },
+      {
+        "question": "Quel signe indique une pré-éclampsie ?",
+        "options": [
+          "Hypotension",
+          "Hypertension et protéinurie",
+          "Fièvre seule",
+          "Anémie isolée"
+        ],
+        "reponse": "Hypertension et protéinurie"
+      },
+      {
+        "question": "Quel examen confirme une grossesse ?",
+        "options": ["Glycémie", "Test de grossesse", "NFS", "Radiographie"],
+        "reponse": "Test de grossesse"
+      },
+      {
+        "question": "L’anémie chez la femme enceinte est souvent due à :",
+        "options": [
+          "Carence en fer",
+          "Excès de calcium",
+          "Infection virale",
+          "Hypertension"
+        ],
+        "reponse": "Carence en fer"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "titre": "Examen Soins Infirmiers",
+    "description": "Questions sur les gestes et soins de base.",
+    "questions": [
+      {
+        "question": "Quel est le premier geste avant tout soin ?",
+        "options": [
+          "Mettre des gants",
+          "Lavage des mains",
+          "Prendre la température",
+          "Administrer un médicament"
+        ],
+        "reponse": "Lavage des mains"
+      },
+      {
+        "question": "La prise de la tension artérielle permet d’évaluer :",
+        "options": [
+          "La respiration",
+          "La circulation sanguine",
+          "La digestion",
+          "La diurèse"
+        ],
+        "reponse": "La circulation sanguine"
+      },
+      {
+        "question": "La température corporelle se mesure le plus souvent :",
+        "options": ["Au bras", "À l’aisselle", "Au pied", "Au dos"],
+        "reponse": "À l’aisselle"
+      },
+      {
+        "question": "Un soin propre vise à :",
+        "options": [
+          "Éliminer les microbes",
+          "Prévenir l’infection",
+          "Soulager la douleur",
+          "Administrer un traitement"
+        ],
+        "reponse": "Prévenir l’infection"
+      },
+      {
+        "question": "La surveillance infirmière consiste à :",
+        "options": [
+          "Administrer seulement les médicaments",
+          "Observer et noter les paramètres du patient",
+          "Poser un diagnostic médical",
+          "Faire une intervention chirurgicale"
+        ],
+        "reponse": "Observer et noter les paramètres du patient"
+      }
+    ]
+  }
+]
 
