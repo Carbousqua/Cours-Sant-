@@ -58,5 +58,17 @@
     "url": "https://github.com/Carbousqua/Cours-Sant-/blob/main/Cours/Gyn%C3%A9cologie/Introduction%20%C3%A0%20la%20Gyn%C3%A9cologie%20%F0%9F%93%9D.pdf"
         }
     ]
+  },
+  {
+    "categorie": "Anesthésie",
+    "description": "Spécialité médicales pour anesthésie.",
+    "icon": "female",
+    "documents":[
+      {
+    "title": "Introduction à la Anesthésie",
+    "subtitle": "Principes fondamentaux",
+    "url": "Anesthésie"
+        }
+    ]
   }
 ]
