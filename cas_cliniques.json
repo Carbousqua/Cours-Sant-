@@ -235,7 +235,6 @@
       }
     ]
   },
-  [
   {
     "titre": "Gastro-entérite aiguë avec déshydratation",
     "categorie": "PÉDIATRIE",
@@ -472,7 +471,6 @@
       }
     ]
   },
-    [
   {
     "titre": "Crise d'asthme aiguë",
     "categorie": "PÉDIATRIE",
@@ -482,27 +480,52 @@
     "questions_reponses": [
       {
         "question": "Quel est le diagnostic le plus probable ?",
-        "options": ["Pneumonie", "Crise d'asthme", "Corps étranger", "Bronchiolite"],
+        "options": [
+          "Pneumonie",
+          "Crise d'asthme",
+          "Corps étranger",
+          "Bronchiolite"
+        ],
         "reponse": "Crise d'asthme"
       },
       {
         "question": "Quel médicament administrer en urgence ?",
-        "options": ["Antibiotique", "Bêta-2 mimétique (Salbutamol)", "Sirop antitussif", "Antiviral"],
+        "options": [
+          "Antibiotique",
+          "Bêta-2 mimétique (Salbutamol)",
+          "Sirop antitussif",
+          "Antiviral"
+        ],
         "reponse": "Bêta-2 mimétique (Salbutamol)"
       },
       {
         "question": "Quel bruit est caractéristique à l'auscultation ?",
-        "options": ["Crépitants", "Sibilants", "Souffle au cœur", "Frottement pleural"],
+        "options": [
+          "Crépitants",
+          "Sibilants",
+          "Souffle au cœur",
+          "Frottement pleural"
+        ],
         "reponse": "Sibilants"
       },
       {
         "question": "Quel signe indique une crise sévère ?",
-        "options": ["Toux sèche", "Parole impossible", "Fatigue légère", "Nez qui coule"],
+        "options": [
+          "Toux sèche",
+          "Parole impossible",
+          "Fatigue légère",
+          "Nez qui coule"
+        ],
         "reponse": "Parole impossible"
       },
       {
         "question": "Quel conseil pour éviter les récidives ?",
-        "options": ["Éviter les allergènes déclencheurs", "Arrêter tout sport", "Ne plus boire d'eau", "Dormir assis à vie"],
+        "options": [
+          "Éviter les allergènes déclencheurs",
+          "Arrêter tout sport",
+          "Ne plus boire d'eau",
+          "Dormir assis à vie"
+        ],
         "reponse": "Éviter les allergènes déclencheurs"
       }
     ]
@@ -516,27 +539,52 @@
     "questions_reponses": [
       {
         "question": "Quel est le diagnostic probable ?",
-        "options": ["Cystite aiguë", "Diabète", "Calcul rénal", "Appendicite"],
+        "options": [
+          "Cystite aiguë",
+          "Diabète",
+          "Calcul rénal",
+          "Appendicite"
+        ],
         "reponse": "Cystite aiguë"
       },
       {
         "question": "Quel examen rapide permet d'orienter le diagnostic ?",
-        "options": ["Radiographie", "Bandelette urinaire", "Prise de sang", "Échographie"],
+        "options": [
+          "Radiographie",
+          "Bandelette urinaire",
+          "Prise de sang",
+          "Échographie"
+        ],
         "reponse": "Bandelette urinaire"
       },
       {
         "question": "Quel examen confirme la bactérie en cause ?",
-        "options": ["NFS", "ECBU", "Coproculture", "Biopsie"],
+        "options": [
+          "NFS",
+          "ECBU",
+          "Coproculture",
+          "Biopsie"
+        ],
         "reponse": "ECBU"
       },
       {
         "question": "Quel est le traitement de base ?",
-        "options": ["Antibiothérapie", "Antifongique", "Antipaludique", "Vitamines"],
+        "options": [
+          "Antibiothérapie",
+          "Antifongique",
+          "Antipaludique",
+          "Vitamines"
+        ],
         "reponse": "Antibiothérapie"
       },
       {
         "question": "Quel conseil d'hygiène donner ?",
-        "options": ["Boire beaucoup d'eau", "Retenir ses urines", "Laver avec du savon fort", "Manger moins salé"],
+        "options": [
+          "Boire beaucoup d'eau",
+          "Retenir ses urines",
+          "Laver avec du savon fort",
+          "Manger moins salé"
+        ],
         "reponse": "Boire beaucoup d'eau"
       }
     ]
@@ -550,27 +598,52 @@
     "questions_reponses": [
       {
         "question": "Quel est le diagnostic suspecté ?",
-        "options": ["Gastro-entérite", "Méningite", "Otite", "Grippe"],
+        "options": [
+          "Gastro-entérite",
+          "Méningite",
+          "Otite",
+          "Grippe"
+        ],
         "reponse": "Méningite"
       },
       {
         "question": "Quel examen est indispensable pour le diagnostic ?",
-        "options": ["Scanner", "Ponction lombaire", "Échographie", "Radio des poumons"],
+        "options": [
+          "Scanner",
+          "Ponction lombaire",
+          "Échographie",
+          "Radio des poumons"
+        ],
         "reponse": "Ponction lombaire"
       },
       {
         "question": "Quel signe cutané impose une urgence absolue ?",
-        "options": ["Boutons de chaleur", "Purpura (tâches rouges)", "Peau sèche", "Pâleur"],
+        "options": [
+          "Boutons de chaleur",
+          "Purpura (tâches rouges)",
+          "Peau sèche",
+          "Pâleur"
+        ],
         "reponse": "Purpura (tâches rouges)"
       },
       {
         "question": "Quel est le traitement urgent ?",
-        "options": ["Antibiotique injectable", "Paracétamol seul", "Sirop de vitamines", "Hydratation simple"],
+        "options": [
+          "Antibiotique injectable",
+          "Paracétamol seul",
+          "Sirop de vitamines",
+          "Hydratation simple"
+        ],
         "reponse": "Antibiotique injectable"
       },
       {
         "question": "Quelle est la prévention la plus efficace ?",
-        "options": ["Lavage des mains", "Vaccination", "Port de lunettes", "Éviter le soleil"],
+        "options": [
+          "Lavage des mains",
+          "Vaccination",
+          "Port de lunettes",
+          "Éviter le soleil"
+        ],
         "reponse": "Vaccination"
       }
     ]
@@ -584,27 +657,52 @@
     "questions_reponses": [
       {
         "question": "Quel est le diagnostic ?",
-        "options": ["Rougeole", "Varicelle", "Eczéma", "Gale"],
+        "options": [
+          "Rougeole",
+          "Varicelle",
+          "Eczéma",
+          "Gale"
+        ],
         "reponse": "Varicelle"
       },
       {
         "question": "Quel est l'agent responsable ?",
-        "options": ["Virus VZV", "Bactérie Strepto", "Parasite", "Champignon"],
+        "options": [
+          "Virus VZV",
+          "Bactérie Strepto",
+          "Parasite",
+          "Champignon"
+        ],
         "reponse": "Virus VZV"
       },
       {
         "question": "Quel médicament est contre-indiqué (risque de syndrome de Reye) ?",
-        "options": ["Paracétamol", "Aspirine", "Sérum physiologique", "Biseptine"],
+        "options": [
+          "Paracétamol",
+          "Aspirine",
+          "Sérum physiologique",
+          "Biseptine"
+        ],
         "reponse": "Aspirine"
       },
       {
         "question": "Quelle est la complication la plus fréquente ?",
-        "options": ["Surinfection cutanée", "Surdité", "Perte de cheveux", "Fracture"],
+        "options": [
+          "Surinfection cutanée",
+          "Surdité",
+          "Perte de cheveux",
+          "Fracture"
+        ],
         "reponse": "Surinfection cutanée"
       },
       {
         "question": "Quelle mesure prendre pour l'école ?",
-        "options": ["Éviction jusqu'à cicatrisation", "Continuer normalement", "Porter un masque", "Changer d'école"],
+        "options": [
+          "Éviction jusqu'à cicatrisation",
+          "Continuer normalement",
+          "Porter un masque",
+          "Changer d'école"
+        ],
         "reponse": "Éviction jusqu'à cicatrisation"
       }
     ]
@@ -618,27 +716,52 @@
     "questions_reponses": [
       {
         "question": "Quel diagnostic évoquer devant ce tableau ?",
-        "options": ["Diabète de type 1", "Infection urinaire", "Stress", "Vers intestinaux"],
+        "options": [
+          "Diabète de type 1",
+          "Infection urinaire",
+          "Stress",
+          "Vers intestinaux"
+        ],
         "reponse": "Diabète de type 1"
       },
       {
         "question": "Quel examen biologique faire en priorité ?",
-        "options": ["NFS", "Glycémie", "Cholestérol", "Groupe sanguin"],
+        "options": [
+          "NFS",
+          "Glycémie",
+          "Cholestérol",
+          "Groupe sanguin"
+        ],
         "reponse": "Glycémie"
       },
       {
         "question": "Quel signe clinique est décrit (soif intense) ?",
-        "options": ["Polyurie", "Polydipsie", "Polyphagie", "Dysurie"],
+        "options": [
+          "Polyurie",
+          "Polydipsie",
+          "Polyphagie",
+          "Dysurie"
+        ],
         "reponse": "Polydipsie"
       },
       {
         "question": "Quel est le traitement indispensable ?",
-        "options": ["Régime sans sucre seul", "Insuline", "Antibiotiques", "Sport intensif"],
+        "options": [
+          "Régime sans sucre seul",
+          "Insuline",
+          "Antibiotiques",
+          "Sport intensif"
+        ],
         "reponse": "Insuline"
       },
       {
         "question": "Quelle complication grave faut-il redouter ?",
-        "options": ["Acidocétose", "Anémie", "Grippe", "Otite"],
+        "options": [
+          "Acidocétose",
+          "Anémie",
+          "Grippe",
+          "Otite"
+        ],
         "reponse": "Acidocétose"
       }
     ]
@@ -652,27 +775,52 @@
     "questions_reponses": [
       {
         "question": "Comment appelle-t-on cette crise ?",
-        "options": ["Crise vaso-occlusive", "Crise cardiaque", "Crise d'asthme", "Crise de foie"],
+        "options": [
+          "Crise vaso-occlusive",
+          "Crise cardiaque",
+          "Crise d'asthme",
+          "Crise de foie"
+        ],
         "reponse": "Crise vaso-occlusive"
       },
       {
         "question": "Quel facteur a probablement déclenché la crise ?",
-        "options": ["Le froid", "Le sucre", "Le bruit", "La lecture"],
+        "options": [
+          "Le froid",
+          "Le sucre",
+          "Le bruit",
+          "La lecture"
+        ],
         "reponse": "Le froid"
       },
       {
         "question": "Quelle est la priorité du traitement ?",
-        "options": ["Hydratation et antalgiques", "Antibiotiques", "Plâtre", "Vitamines"],
+        "options": [
+          "Hydratation et antalgiques",
+          "Antibiotiques",
+          "Plâtre",
+          "Vitamines"
+        ],
         "reponse": "Hydratation et antalgiques"
       },
       {
         "question": "Quel est le problème au niveau des globules rouges ?",
-        "options": ["Trop nombreux", "Forme de faucille", "Absents", "Trop gros"],
+        "options": [
+          "Trop nombreux",
+          "Forme de faucille",
+          "Absents",
+          "Trop gros"
+        ],
         "reponse": "Forme de faucille"
       },
       {
         "question": "Quelle complication osseuse est possible à long terme ?",
-        "options": ["Ostéonécrose", "Fracture de fatigue", "Rachitisme", "Entorse"],
+        "options": [
+          "Ostéonécrose",
+          "Fracture de fatigue",
+          "Rachitisme",
+          "Entorse"
+        ],
         "reponse": "Ostéonécrose"
       }
     ]
@@ -686,27 +834,52 @@
     "questions_reponses": [
       {
         "question": "De quel type de malnutrition s'agit-il ?",
-        "options": ["Marasme", "Kwashiorkor", "Obésité", "Scorbut"],
+        "options": [
+          "Marasme",
+          "Kwashiorkor",
+          "Obésité",
+          "Scorbut"
+        ],
         "reponse": "Kwashiorkor"
       },
       {
         "question": "Quelle carence est prédominante ici ?",
-        "options": ["Carence en protéines", "Carence en sucre", "Carence en graisses", "Carence en eau"],
+        "options": [
+          "Carence en protéines",
+          "Carence en sucre",
+          "Carence en graisses",
+          "Carence en eau"
+        ],
         "reponse": "Carence en protéines"
       },
       {
         "question": "Quel signe clinique est caractéristique ?",
-        "options": ["Maigreur extrême", "Œdèmes bilatéraux", "Taille géante", "Dents noires"],
+        "options": [
+          "Maigreur extrême",
+          "Œdèmes bilatéraux",
+          "Taille géante",
+          "Dents noires"
+        ],
         "reponse": "Œdèmes bilatéraux"
       },
       {
         "question": "Quelle est la conduite à tenir ?",
-        "options": ["Réalimentation progressive", "Régime hypocalorique", "Donner du café", "Chirurgie"],
+        "options": [
+          "Réalimentation progressive",
+          "Régime hypocalorique",
+          "Donner du café",
+          "Chirurgie"
+        ],
         "reponse": "Réalimentation progressive"
       },
       {
         "question": "Quel est le risque majeur en début de traitement ?",
-        "options": ["Syndrome de renutrition", "Grippe", "Pousse des dents", "Somnambulisme"],
+        "options": [
+          "Syndrome de renutrition",
+          "Grippe",
+          "Pousse des dents",
+          "Somnambulisme"
+        ],
         "reponse": "Syndrome de renutrition"
       }
     ]
@@ -720,27 +893,52 @@
     "questions_reponses": [
       {
         "question": "Quel est le diagnostic ?",
-        "options": ["Scarlatine", "Rubéole", "Rougeole", "Urticaire"],
+        "options": [
+          "Scarlatine",
+          "Rubéole",
+          "Rougeole",
+          "Urticaire"
+        ],
         "reponse": "Scarlatine"
       },
       {
         "question": "Quelle bactérie est responsable ?",
-        "options": ["Streptocoque A", "Staphylocoque", "Salmonelle", "E. coli"],
+        "options": [
+          "Streptocoque A",
+          "Staphylocoque",
+          "Salmonelle",
+          "E. coli"
+        ],
         "reponse": "Streptocoque A"
       },
       {
         "question": "Quel signe lingual est typique ?",
-        "options": ["Langue géographique", "Langue framboisée", "Langue noire", "Langue velue"],
+        "options": [
+          "Langue géographique",
+          "Langue framboisée",
+          "Langue noire",
+          "Langue velue"
+        ],
         "reponse": "Langue framboisée"
       },
       {
         "question": "Quel est le traitement recommandé ?",
-        "options": ["Pénicilline / Amoxicilline", "Antiviral", "Crème hydratante seule", "Rien"],
+        "options": [
+          "Pénicilline / Amoxicilline",
+          "Antiviral",
+          "Crème hydratante seule",
+          "Rien"
+        ],
         "reponse": "Pénicilline / Amoxicilline"
       },
       {
         "question": "Pourquoi traiter systématiquement l'angine à streptocoque ?",
-        "options": ["Prévenir le RAA", "Éviter la toux", "Faire baisser le poids", "Empêcher la calvitie"],
+        "options": [
+          "Prévenir le RAA",
+          "Éviter la toux",
+          "Faire baisser le poids",
+          "Empêcher la calvitie"
+        ],
         "reponse": "Prévenir le RAA"
       }
     ]
@@ -754,27 +952,52 @@
     "questions_reponses": [
       {
         "question": "Quel est le diagnostic suspecté ?",
-        "options": ["Appendicite", "Gastro-entérite", "Colique néphrétique", "Constipation"],
+        "options": [
+          "Appendicite",
+          "Gastro-entérite",
+          "Colique néphrétique",
+          "Constipation"
+        ],
         "reponse": "Appendicite"
       },
       {
         "question": "Comment s'appelle le point douloureux typique ?",
-        "options": ["Point de McBurney", "Point de Murphy", "Point de Rose", "Point G"],
+        "options": [
+          "Point de McBurney",
+          "Point de Murphy",
+          "Point de Rose",
+          "Point G"
+        ],
         "reponse": "Point de McBurney"
       },
       {
         "question": "Quel examen d'imagerie est souvent utilisé ?",
-        "options": ["Échographie abdominale", "Radiographie des membres", "IRM cérébrale", "ECG"],
+        "options": [
+          "Échographie abdominale",
+          "Radiographie des membres",
+          "IRM cérébrale",
+          "ECG"
+        ],
         "reponse": "Échographie abdominale"
       },
       {
         "question": "Quel est le traitement de référence ?",
-        "options": ["Appendicectomie (chirurgie)", "Antibiotiques seuls", "Massage", "Lavements"],
+        "options": [
+          "Appendicectomie (chirurgie)",
+          "Antibiotiques seuls",
+          "Massage",
+          "Lavements"
+        ],
         "reponse": "Appendicectomie (chirurgie)"
       },
       {
         "question": "Quelle est la complication redoutée ?",
-        "options": ["Péritonite", "Angine", "Migraine", "Acné"],
+        "options": [
+          "Péritonite",
+          "Angine",
+          "Migraine",
+          "Acné"
+        ],
         "reponse": "Péritonite"
       }
     ]
@@ -788,31 +1011,54 @@
     "questions_reponses": [
       {
         "question": "Quel est le diagnostic ?",
-        "options": ["Asthme", "Coqueluche", "Bronchiolite", "Laryngite"],
+        "options": [
+          "Asthme",
+          "Coqueluche",
+          "Bronchiolite",
+          "Laryngite"
+        ],
         "reponse": "Coqueluche"
       },
       {
         "question": "Comment appelle-t-on le bruit inspiratoire ?",
-        "options": ["Chant du coq", "Cri du lapin", "Rugissement", "Sifflet"],
+        "options": [
+          "Chant du coq",
+          "Cri du lapin",
+          "Rugissement",
+          "Sifflet"
+        ],
         "reponse": "Chant du coq"
       },
       {
         "question": "Quelle bactérie est en cause ?",
-        "options": ["Bordetella pertussis", "Pneumocoque", "Listeria", "Tétanos"],
+        "options": [
+          "Bordetella pertussis",
+          "Pneumocoque",
+          "Listeria",
+          "Tétanos"
+        ],
         "reponse": "Bordetella pertussis"
       },
       {
         "question": "Pourquoi est-ce grave chez le nourrisson ?",
-        "options": ["Risque d'apnée fatale", "Risque de caries", "Risque de surdité", "Risque de boiterie"],
+        "options": [
+          "Risque d'apnée fatale",
+          "Risque de caries",
+          "Risque de surdité",
+          "Risque de boiterie"
+        ],
         "reponse": "Risque d'apnée fatale"
       },
       {
         "question": "Quelle est la meilleure prévention ?",
-        "options": ["Vaccination de l'entourage", "Éviter les parcs", "Porter un bonnet", "Manger du miel"],
+        "options": [
+          "Vaccination de l'entourage",
+          "Éviter les parcs",
+          "Porter un bonnet",
+          "Manger du miel"
+        ],
         "reponse": "Vaccination de l'entourage"
       }
     ]
   }
 ]
-
-
