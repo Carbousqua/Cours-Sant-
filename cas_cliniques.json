@@ -234,5 +234,585 @@
         "reponse": "Augmenter les aliments riches en fer"
       }
     ]
+  },
+  [
+  {
+    "titre": "Gastro-entérite aiguë avec déshydratation",
+    "categorie": "PÉDIATRIE",
+    "presentation": "Un nourrisson de 14 mois est amené pour des selles liquides fréquentes (plus de 6 par jour) et des vomissements depuis 24 heures.",
+    "antecedents": "Pas d'antécédents notables. Vaccinations à jour.",
+    "examen_clinique": "Poids en baisse de 7% par rapport au poids habituel. Plis cutané persistant, fontanelle légèrement déprimée, muqueuses sèches.",
+    "questions_reponses": [
+      {
+        "question": "Quel est le diagnostic principal ?",
+        "options": [
+          "Infection urinaire",
+          "Gastro-entérite avec déshydratation modérée",
+          "Appendicite aiguë",
+          "Intolérance au lactose"
+        ],
+        "reponse": "Gastro-entérite avec déshydratation modérée"
+      },
+      {
+        "question": "Quel est le premier signe de déshydratation recherché ici ?",
+        "options": [
+          "La toux",
+          "Le pli cutané",
+          "La couleur des yeux",
+          "La présence de dents"
+        ],
+        "reponse": "Le pli cutané"
+      },
+      {
+        "question": "Quelle est la prise en charge initiale recommandée ?",
+        "options": [
+          "Sels de réhydratation orale (SRO)",
+          "Antibiotiques systématiques",
+          "Arrêt immédiat du lait",
+          "Lavements intestinaux"
+        ],
+        "reponse": "Sels de réhydratation orale (SRO)"
+      },
+      {
+        "question": "Quel est le risque majeur d'une déshydratation non traitée ?",
+        "options": [
+          "Choc hypovolémique",
+          "Surdité",
+          "Éruption cutanée",
+          "Constipation chronique"
+        ],
+        "reponse": "Choc hypovolémique"
+      },
+      {
+        "question": "Quel conseil de prévention est essentiel ?",
+        "options": [
+          "Laver les mains et hygiène alimentaire",
+          "Donner des jus de fruits sucrés",
+          "Éviter de boire de l'eau",
+          "Supprimer les légumes"
+        ],
+        "reponse": "Laver les mains et hygiène alimentaire"
+      }
+    ]
+  },
+  {
+    "titre": "Pneumonie aiguë communautaire",
+    "categorie": "PÉDIATRIE",
+    "presentation": "Un enfant de 5 ans présente une fièvre brutale à 39°C, une toux productive et une douleur thoracique droite.",
+    "antecedents": "Épisodes de rhinopharyngites fréquents en hiver.",
+    "examen_clinique": "FR : 40 cycles/min. Crépitants localisés à la base droite. Absence de signes de lutte majeurs.",
+    "questions_reponses": [
+      {
+        "question": "Quel est le diagnostic le plus probable ?",
+        "options": [
+          "Asthme",
+          "Pneumonie aiguë",
+          "Coqueluche",
+          "Corps étranger"
+        ],
+        "reponse": "Pneumonie aiguë"
+      },
+      {
+        "question": "Quel signe auscultatoire oriente vers ce diagnostic ?",
+        "options": [
+          "Sibilants",
+          "Râles crépitants localisés",
+          "Silence auscultatoire",
+          "Stridor"
+        ],
+        "reponse": "Râles crépitants localisés"
+      },
+      {
+        "question": "Quel examen d'imagerie confirme le diagnostic ?",
+        "options": [
+          "Scanner cérébral",
+          "Radiographie du thorax",
+          "Échographie abdominale",
+          "IRM osseuse"
+        ],
+        "reponse": "Radiographie du thorax"
+      },
+      {
+        "question": "Quel est le traitement de première intention (souvent bactérien) ?",
+        "options": [
+          "Antiviral",
+          "Amoxicilline",
+          "Sirop antitussif uniquement",
+          "Vitamine C"
+        ],
+        "reponse": "Amoxicilline"
+      },
+      {
+        "question": "Quel signe imposerait une hospitalisation ?",
+        "options": [
+          "Cyanose ou détresse respiratoire",
+          "Toux simple",
+          "Température à 38°C",
+          "Fatigue modérée"
+        ],
+        "reponse": "Cyanose ou détresse respiratoire"
+      }
+    ]
+  },
+  {
+    "titre": "La Rougeole",
+    "categorie": "PÉDIATRIE",
+    "presentation": "Enfant de 3 ans non vacciné présentant une forte fièvre, une toux, un écoulement nasal et une éruption cutanée rouge débutant sur le visage.",
+    "antecedents": "Statut vaccinal non à jour.",
+    "examen_clinique": "Tâches blanchâtres à l'intérieur des joues (signe de Koplik), éruption maculo-papuleuse.",
+    "questions_reponses": [
+      {
+        "question": "Quel est le diagnostic le plus probable ?",
+        "options": [
+          "Varicelle",
+          "Rougeole",
+          "Scarlatine",
+          "Urticaire"
+        ],
+        "reponse": "Rougeole"
+      },
+      {
+        "question": "Quel est le nom du signe pathognomique dans la bouche ?",
+        "options": [
+          "Signe de la main",
+          "Signe de Koplik",
+          "Signe de Babinski",
+          "Signe du flot"
+        ],
+        "reponse": "Signe de Koplik"
+      },
+      {
+        "question": "Comment se transmet principalement cette maladie ?",
+        "options": [
+          "Par voie aérienne (gouttelettes)",
+          "Par l'eau souillée",
+          "Par les piqûres de moustiques",
+          "Par contact avec le sol"
+        ],
+        "reponse": "Par voie aérienne (gouttelettes)"
+      },
+      {
+        "question": "Quelle vitamine est recommandée par l'OMS dans le traitement ?",
+        "options": [
+          "Vitamine D",
+          "Vitamine A",
+          "Vitamine E",
+          "Vitamine K"
+        ],
+        "reponse": "Vitamine A"
+      },
+      {
+        "question": "Quel est le meilleur moyen de prévention ?",
+        "options": [
+          "Lavage de nez quotidien",
+          "Vaccination (ROR)",
+          "Porter un chapeau",
+          "Prendre des antibiotiques"
+        ],
+        "reponse": "Vaccination (ROR)"
+      }
+    ]
+  },
+  {
+    "titre": "Ictère néonatal (Jaunisse)",
+    "categorie": "PÉDIATRIE",
+    "presentation": "Nouveau-né de 3 jours présentant une coloration jaune de la peau et des conjonctives.",
+    "antecedents": "Né à terme, allaitement maternel exclusif.",
+    "examen_clinique": "Enfant tonique, tète bien, mais ictère cutané visible jusqu'aux membres.",
+    "questions_reponses": [
+      {
+        "question": "Quel est le terme médical pour cette coloration jaune ?",
+        "options": [
+          "Cyanose",
+          "Ictère",
+          "Érythème",
+          "Purpura"
+        ],
+        "reponse": "Ictère"
+      },
+      {
+        "question": "Quelle substance est responsable de cette couleur ?",
+        "options": [
+          "Hémoglobine",
+          "Bilirubine",
+          "Glucose",
+          "Urée"
+        ],
+        "reponse": "Bilirubine"
+      },
+      {
+        "question": "Quel traitement utilise la lumière pour traiter l'ictère ?",
+        "options": [
+          "Radiothérapie",
+          "Photothérapie",
+          "Luminothérapie de bureau",
+          "Laser"
+        ],
+        "reponse": "Photothérapie"
+      },
+      {
+        "question": "Quel est le risque principal d'un ictère très sévère ?",
+        "options": [
+          "Ictère nucléaire (atteinte cérébrale)",
+          "Infection pulmonaire",
+          "Diabète",
+          "Cécité"
+        ],
+        "reponse": "Ictère nucléaire (atteinte cérébrale)"
+      },
+      {
+        "question": "Quelle est la conduite à tenir si l'ictère est modéré et physiologique ?",
+        "options": [
+          "Surveillance et favoriser l'alimentation",
+          "Arrêt immédiat de l'allaitement",
+          "Donner des antibiotiques",
+          "Transfusion immédiate"
+        ],
+        "reponse": "Surveillance et favoriser l'alimentation"
+      }
+    ]
+  },
+    [
+  {
+    "titre": "Crise d'asthme aiguë",
+    "categorie": "PÉDIATRIE",
+    "presentation": "Un enfant de 7 ans, connu asthmatique, présente une gêne respiratoire sifflante après une séance de sport.",
+    "antecedents": "Asthme allergique, utilise parfois un inhalateur.",
+    "examen_clinique": "FR : 30 cycles/min, sibilants bilatéraux à l'auscultation, difficulté à finir ses phrases.",
+    "questions_reponses": [
+      {
+        "question": "Quel est le diagnostic le plus probable ?",
+        "options": ["Pneumonie", "Crise d'asthme", "Corps étranger", "Bronchiolite"],
+        "reponse": "Crise d'asthme"
+      },
+      {
+        "question": "Quel médicament administrer en urgence ?",
+        "options": ["Antibiotique", "Bêta-2 mimétique (Salbutamol)", "Sirop antitussif", "Antiviral"],
+        "reponse": "Bêta-2 mimétique (Salbutamol)"
+      },
+      {
+        "question": "Quel bruit est caractéristique à l'auscultation ?",
+        "options": ["Crépitants", "Sibilants", "Souffle au cœur", "Frottement pleural"],
+        "reponse": "Sibilants"
+      },
+      {
+        "question": "Quel signe indique une crise sévère ?",
+        "options": ["Toux sèche", "Parole impossible", "Fatigue légère", "Nez qui coule"],
+        "reponse": "Parole impossible"
+      },
+      {
+        "question": "Quel conseil pour éviter les récidives ?",
+        "options": ["Éviter les allergènes déclencheurs", "Arrêter tout sport", "Ne plus boire d'eau", "Dormir assis à vie"],
+        "reponse": "Éviter les allergènes déclencheurs"
+      }
+    ]
+  },
+  {
+    "titre": "Infection urinaire (Cystite)",
+    "categorie": "PÉDIATRIE",
+    "presentation": "Une petite fille de 5 ans se plaint de brûlures lorsqu'elle urine et d'une envie fréquente d'aller aux toilettes.",
+    "antecedents": "Aucun antécédent particulier.",
+    "examen_clinique": "Température : 37,5°C. Douleur à la pression sus-pubienne. Urines troubles.",
+    "questions_reponses": [
+      {
+        "question": "Quel est le diagnostic probable ?",
+        "options": ["Cystite aiguë", "Diabète", "Calcul rénal", "Appendicite"],
+        "reponse": "Cystite aiguë"
+      },
+      {
+        "question": "Quel examen rapide permet d'orienter le diagnostic ?",
+        "options": ["Radiographie", "Bandelette urinaire", "Prise de sang", "Échographie"],
+        "reponse": "Bandelette urinaire"
+      },
+      {
+        "question": "Quel examen confirme la bactérie en cause ?",
+        "options": ["NFS", "ECBU", "Coproculture", "Biopsie"],
+        "reponse": "ECBU"
+      },
+      {
+        "question": "Quel est le traitement de base ?",
+        "options": ["Antibiothérapie", "Antifongique", "Antipaludique", "Vitamines"],
+        "reponse": "Antibiothérapie"
+      },
+      {
+        "question": "Quel conseil d'hygiène donner ?",
+        "options": ["Boire beaucoup d'eau", "Retenir ses urines", "Laver avec du savon fort", "Manger moins salé"],
+        "reponse": "Boire beaucoup d'eau"
+      }
+    ]
+  },
+  {
+    "titre": "Méningite bactérienne",
+    "categorie": "PÉDIATRIE",
+    "presentation": "Nourrisson de 18 mois présentant une forte fièvre, des vomissements en jet et une somnolence inhabituelle.",
+    "antecedents": "Vaccination incomplète.",
+    "examen_clinique": "Température : 39,8°C. Raideur de la nuque, fontanelle bombante, cris plaintifs.",
+    "questions_reponses": [
+      {
+        "question": "Quel est le diagnostic suspecté ?",
+        "options": ["Gastro-entérite", "Méningite", "Otite", "Grippe"],
+        "reponse": "Méningite"
+      },
+      {
+        "question": "Quel examen est indispensable pour le diagnostic ?",
+        "options": ["Scanner", "Ponction lombaire", "Échographie", "Radio des poumons"],
+        "reponse": "Ponction lombaire"
+      },
+      {
+        "question": "Quel signe cutané impose une urgence absolue ?",
+        "options": ["Boutons de chaleur", "Purpura (tâches rouges)", "Peau sèche", "Pâleur"],
+        "reponse": "Purpura (tâches rouges)"
+      },
+      {
+        "question": "Quel est le traitement urgent ?",
+        "options": ["Antibiotique injectable", "Paracétamol seul", "Sirop de vitamines", "Hydratation simple"],
+        "reponse": "Antibiotique injectable"
+      },
+      {
+        "question": "Quelle est la prévention la plus efficace ?",
+        "options": ["Lavage des mains", "Vaccination", "Port de lunettes", "Éviter le soleil"],
+        "reponse": "Vaccination"
+      }
+    ]
+  },
+  {
+    "titre": "Varicelle",
+    "categorie": "PÉDIATRIE",
+    "presentation": "Enfant de 4 ans présentant de la fièvre et une éruption de petites bulles remplies de liquide sur tout le corps.",
+    "antecedents": "Contact récent avec un enfant ayant la même éruption.",
+    "examen_clinique": "Lésions à différents stades (macules, vésicules, croûtes). Démangeaisons intenses.",
+    "questions_reponses": [
+      {
+        "question": "Quel est le diagnostic ?",
+        "options": ["Rougeole", "Varicelle", "Eczéma", "Gale"],
+        "reponse": "Varicelle"
+      },
+      {
+        "question": "Quel est l'agent responsable ?",
+        "options": ["Virus VZV", "Bactérie Strepto", "Parasite", "Champignon"],
+        "reponse": "Virus VZV"
+      },
+      {
+        "question": "Quel médicament est contre-indiqué (risque de syndrome de Reye) ?",
+        "options": ["Paracétamol", "Aspirine", "Sérum physiologique", "Biseptine"],
+        "reponse": "Aspirine"
+      },
+      {
+        "question": "Quelle est la complication la plus fréquente ?",
+        "options": ["Surinfection cutanée", "Surdité", "Perte de cheveux", "Fracture"],
+        "reponse": "Surinfection cutanée"
+      },
+      {
+        "question": "Quelle mesure prendre pour l'école ?",
+        "options": ["Éviction jusqu'à cicatrisation", "Continuer normalement", "Porter un masque", "Changer d'école"],
+        "reponse": "Éviction jusqu'à cicatrisation"
+      }
+    ]
+  },
+  {
+    "titre": "Diabète de type 1 (Inauguration)",
+    "categorie": "PÉDIATRIE",
+    "presentation": "Un garçon de 10 ans boit énormément d'eau, urine très souvent (même la nuit) et a perdu du poids malgré un bon appétit.",
+    "antecedents": "Aucun.",
+    "examen_clinique": "Asthénie, haleine ayant une odeur de pomme acide.",
+    "questions_reponses": [
+      {
+        "question": "Quel diagnostic évoquer devant ce tableau ?",
+        "options": ["Diabète de type 1", "Infection urinaire", "Stress", "Vers intestinaux"],
+        "reponse": "Diabète de type 1"
+      },
+      {
+        "question": "Quel examen biologique faire en priorité ?",
+        "options": ["NFS", "Glycémie", "Cholestérol", "Groupe sanguin"],
+        "reponse": "Glycémie"
+      },
+      {
+        "question": "Quel signe clinique est décrit (soif intense) ?",
+        "options": ["Polyurie", "Polydipsie", "Polyphagie", "Dysurie"],
+        "reponse": "Polydipsie"
+      },
+      {
+        "question": "Quel est le traitement indispensable ?",
+        "options": ["Régime sans sucre seul", "Insuline", "Antibiotiques", "Sport intensif"],
+        "reponse": "Insuline"
+      },
+      {
+        "question": "Quelle complication grave faut-il redouter ?",
+        "options": ["Acidocétose", "Anémie", "Grippe", "Otite"],
+        "reponse": "Acidocétose"
+      }
+    ]
+  },
+  {
+    "titre": "Crise de Drépanocytose",
+    "categorie": "PÉDIATRIE",
+    "presentation": "Enfant de 8 ans, suivi pour drépanocytose, présentant des douleurs intenses au niveau des membres inférieurs après une baignade en eau froide.",
+    "antecedents": "Forme homozygote SS.",
+    "examen_clinique": "Douleur à la palpation osseuse, sub-ictère conjonctival, FC augmentée.",
+    "questions_reponses": [
+      {
+        "question": "Comment appelle-t-on cette crise ?",
+        "options": ["Crise vaso-occlusive", "Crise cardiaque", "Crise d'asthme", "Crise de foie"],
+        "reponse": "Crise vaso-occlusive"
+      },
+      {
+        "question": "Quel facteur a probablement déclenché la crise ?",
+        "options": ["Le froid", "Le sucre", "Le bruit", "La lecture"],
+        "reponse": "Le froid"
+      },
+      {
+        "question": "Quelle est la priorité du traitement ?",
+        "options": ["Hydratation et antalgiques", "Antibiotiques", "Plâtre", "Vitamines"],
+        "reponse": "Hydratation et antalgiques"
+      },
+      {
+        "question": "Quel est le problème au niveau des globules rouges ?",
+        "options": ["Trop nombreux", "Forme de faucille", "Absents", "Trop gros"],
+        "reponse": "Forme de faucille"
+      },
+      {
+        "question": "Quelle complication osseuse est possible à long terme ?",
+        "options": ["Ostéonécrose", "Fracture de fatigue", "Rachitisme", "Entorse"],
+        "reponse": "Ostéonécrose"
+      }
+    ]
+  },
+  {
+    "titre": "Malnutrition aiguë (Kwashiorkor)",
+    "categorie": "PÉDIATRIE",
+    "presentation": "Enfant de 2 ans présentant des œdèmes des pieds, un gros ventre, des cheveux roux et cassants.",
+    "antecedents": "Sevrage brutal, alimentation essentiellement à base de tubercules.",
+    "examen_clinique": "Œdèmes prenant le godet, lésions cutanées (peau de léopard), apathie.",
+    "questions_reponses": [
+      {
+        "question": "De quel type de malnutrition s'agit-il ?",
+        "options": ["Marasme", "Kwashiorkor", "Obésité", "Scorbut"],
+        "reponse": "Kwashiorkor"
+      },
+      {
+        "question": "Quelle carence est prédominante ici ?",
+        "options": ["Carence en protéines", "Carence en sucre", "Carence en graisses", "Carence en eau"],
+        "reponse": "Carence en protéines"
+      },
+      {
+        "question": "Quel signe clinique est caractéristique ?",
+        "options": ["Maigreur extrême", "Œdèmes bilatéraux", "Taille géante", "Dents noires"],
+        "reponse": "Œdèmes bilatéraux"
+      },
+      {
+        "question": "Quelle est la conduite à tenir ?",
+        "options": ["Réalimentation progressive", "Régime hypocalorique", "Donner du café", "Chirurgie"],
+        "reponse": "Réalimentation progressive"
+      },
+      {
+        "question": "Quel est le risque majeur en début de traitement ?",
+        "options": ["Syndrome de renutrition", "Grippe", "Pousse des dents", "Somnambulisme"],
+        "reponse": "Syndrome de renutrition"
+      }
+    ]
+  },
+  {
+    "titre": "Scarlatine",
+    "categorie": "PÉDIATRIE",
+    "presentation": "Enfant de 6 ans avec forte fièvre, maux de gorge et une éruption cutanée rugueuse (sensation de papier de verre).",
+    "antecedents": "Aucun.",
+    "examen_clinique": "Angine rouge, langue d'abord blanche puis devenant rouge vif (framboisée).",
+    "questions_reponses": [
+      {
+        "question": "Quel est le diagnostic ?",
+        "options": ["Scarlatine", "Rubéole", "Rougeole", "Urticaire"],
+        "reponse": "Scarlatine"
+      },
+      {
+        "question": "Quelle bactérie est responsable ?",
+        "options": ["Streptocoque A", "Staphylocoque", "Salmonelle", "E. coli"],
+        "reponse": "Streptocoque A"
+      },
+      {
+        "question": "Quel signe lingual est typique ?",
+        "options": ["Langue géographique", "Langue framboisée", "Langue noire", "Langue velue"],
+        "reponse": "Langue framboisée"
+      },
+      {
+        "question": "Quel est le traitement recommandé ?",
+        "options": ["Pénicilline / Amoxicilline", "Antiviral", "Crème hydratante seule", "Rien"],
+        "reponse": "Pénicilline / Amoxicilline"
+      },
+      {
+        "question": "Pourquoi traiter systématiquement l'angine à streptocoque ?",
+        "options": ["Prévenir le RAA", "Éviter la toux", "Faire baisser le poids", "Empêcher la calvitie"],
+        "reponse": "Prévenir le RAA"
+      }
+    ]
+  },
+  {
+    "titre": "Appendicite aiguë",
+    "categorie": "PÉDIATRIE",
+    "presentation": "Adolescent de 12 ans souffrant de douleurs abdominales intenses débutant au nombril puis se fixant en bas à droite.",
+    "antecedents": "Aucun.",
+    "examen_clinique": "Température : 38,2°C. Douleur provoquée en fosse iliaque droite (point de McBurney). Nausées.",
+    "questions_reponses": [
+      {
+        "question": "Quel est le diagnostic suspecté ?",
+        "options": ["Appendicite", "Gastro-entérite", "Colique néphrétique", "Constipation"],
+        "reponse": "Appendicite"
+      },
+      {
+        "question": "Comment s'appelle le point douloureux typique ?",
+        "options": ["Point de McBurney", "Point de Murphy", "Point de Rose", "Point G"],
+        "reponse": "Point de McBurney"
+      },
+      {
+        "question": "Quel examen d'imagerie est souvent utilisé ?",
+        "options": ["Échographie abdominale", "Radiographie des membres", "IRM cérébrale", "ECG"],
+        "reponse": "Échographie abdominale"
+      },
+      {
+        "question": "Quel est le traitement de référence ?",
+        "options": ["Appendicectomie (chirurgie)", "Antibiotiques seuls", "Massage", "Lavements"],
+        "reponse": "Appendicectomie (chirurgie)"
+      },
+      {
+        "question": "Quelle est la complication redoutée ?",
+        "options": ["Péritonite", "Angine", "Migraine", "Acné"],
+        "reponse": "Péritonite"
+      }
+    ]
+  },
+  {
+    "titre": "La Coqueluche",
+    "categorie": "PÉDIATRIE",
+    "presentation": "Nourrisson de 3 mois présentant des quintes de toux violentes, suivies d'une inspiration sifflante évoquant un chant de coq.",
+    "antecedents": "Vaccination non commencée.",
+    "examen_clinique": "Accès de toux cyanisants (l'enfant devient bleu), apnées, vomissements après la toux.",
+    "questions_reponses": [
+      {
+        "question": "Quel est le diagnostic ?",
+        "options": ["Asthme", "Coqueluche", "Bronchiolite", "Laryngite"],
+        "reponse": "Coqueluche"
+      },
+      {
+        "question": "Comment appelle-t-on le bruit inspiratoire ?",
+        "options": ["Chant du coq", "Cri du lapin", "Rugissement", "Sifflet"],
+        "reponse": "Chant du coq"
+      },
+      {
+        "question": "Quelle bactérie est en cause ?",
+        "options": ["Bordetella pertussis", "Pneumocoque", "Listeria", "Tétanos"],
+        "reponse": "Bordetella pertussis"
+      },
+      {
+        "question": "Pourquoi est-ce grave chez le nourrisson ?",
+        "options": ["Risque d'apnée fatale", "Risque de caries", "Risque de surdité", "Risque de boiterie"],
+        "reponse": "Risque d'apnée fatale"
+      },
+      {
+        "question": "Quelle est la meilleure prévention ?",
+        "options": ["Vaccination de l'entourage", "Éviter les parcs", "Porter un bonnet", "Manger du miel"],
+        "reponse": "Vaccination de l'entourage"
+      }
+    ]
   }
 ]
+
+
