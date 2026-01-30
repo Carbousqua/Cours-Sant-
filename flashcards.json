@@ -1,1 +1,59 @@
+[
+  {
+    "title": "Anatomie",
+    "icon": "style",
+    "cards": [
+      { "q": "Combien d'os dans le corps humain ?", "a": "206 os" },
+      { "q": "Quel est l’os le plus long du corps ?", "a": "Le fémur" },
+      { "q": "Quel est l’os le plus petit du corps ?", "a": "L’étrier (oreille moyenne)" },
+      { "q": "Combien de vertèbres dans la colonne vertébrale ?", "a": "33 vertèbres" },
+      { "q": "Organe principal du système nerveux ?", "a": "Le cerveau" },
+      { "q": "Fonction principale du cœur ?", "a": "Pomper le sang dans l’organisme" },
+      { "q": "Combien de poumons chez l’homme ?", "a": "Deux poumons" },
+      { "q": "Rôle des reins ?", "a": "Filtrer le sang et produire l’urine" }
+    ]
+  },
+  {
+    "title": "Physiologie",
+    "icon": "favorite",
+    "cards": [
+      { "q": "Valeur normale de la température corporelle ?", "a": "Environ 37°C" },
+      { "q": "Rythme cardiaque normal chez l’adulte ?", "a": "60 à 100 battements par minute" },
+      { "q": "Fonction principale des globules rouges ?", "a": "Transporter l’oxygène" },
+      { "q": "Organe responsable de la respiration ?", "a": "Les poumons" },
+      { "q": "Pression artérielle normale ?", "a": "Environ 120/80 mmHg" }
+    ]
+  },
+  {
+    "title": "Pharmacologie",
+    "icon": "medication",
+    "cards": [
+      { "q": "Antidote du paracétamol ?", "a": "N-acétylcystéine" },
+      { "q": "Classe du paracétamol ?", "a": "Antalgique et antipyrétique" },
+      { "q": "Effet principal des antibiotiques ?", "a": "Tuer ou inhiber les bactéries" },
+      { "q": "Risque principal de l’aspirine ?", "a": "Saignement gastrique" },
+      { "q": "Voie d’administration la plus rapide ?", "a": "Intraveineuse (IV)" }
+    ]
+  },
+  {
+    "title": "Soins infirmiers",
+    "icon": "healing",
+    "cards": [
+      { "q": "Objectif principal des soins infirmiers ?", "a": "Maintenir et améliorer la santé du patient" },
+      { "q": "Avant une injection, que faut-il vérifier ?", "a": "Identité du patient et médicament" },
+      { "q": "Geste essentiel pour prévenir les infections ?", "a": "Lavage des mains" },
+      { "q": "Position pour un patient inconscient qui respire ?", "a": "Position latérale de sécurité (PLS)" }
+    ]
+  },
+  {
+    "title": "Urgences",
+    "icon": "local_hospital",
+    "cards": [
+      { "q": "Premier geste devant une hémorragie ?", "a": "Compression directe" },
+      { "q": "Numéro des urgences médicales au Mali ?", "a": "15 ou services locaux d’urgence" },
+      { "q": "Signe principal de l’arrêt cardiaque ?", "a": "Absence de pouls et de respiration" },
+      { "q": "Fréquence des compressions lors du massage cardiaque ?", "a": "100 à 120 compressions par minute" }
+    ]
+  }
+]
 
