@@ -1,1 +1,152 @@
-
+[
+  {
+    "titre": "Patient Diabétique - Mobilité",
+    "description": "Patient de 65 ans présentant une faiblesse musculaire.",
+    "etapes": [
+      {
+        "date": "27/01/2024",
+        "besoin": "Se mouvoir et se maintenir en bonne posture",
+        "difficulte": "Manque de force physique",
+        "objectif": "Que Mr X marche 5 pas de plus chaque jour",
+        "intervention": "Exercices de marche matin et soir",
+        "evaluation": "Amélioration légère (3 pas faits)",
+        "observation": "Continuer la stratégie"
+      }
+    ]
+  },
+  {
+    "titre": "Patient Hypertendu - Surveillance",
+    "description": "Patient de 58 ans avec hypertension artérielle non contrôlée.",
+    "etapes": [
+      {
+        "date": "05/02/2024",
+        "besoin": "Maintenir une bonne circulation sanguine",
+        "difficulte": "Tension artérielle élevée",
+        "objectif": "Stabiliser la tension à 140/90 mmHg",
+        "intervention": "Surveillance quotidienne de la tension et observance du traitement",
+        "evaluation": "Diminution progressive de la tension",
+        "observation": "Poursuivre le suivi"
+      }
+    ]
+  },
+  {
+    "titre": "Patient Asthmatique - Respiration",
+    "description": "Jeune adulte souffrant de crises d’asthme fréquentes.",
+    "etapes": [
+      {
+        "date": "10/02/2024",
+        "besoin": "Respirer normalement",
+        "difficulte": "Dyspnée à l’effort",
+        "objectif": "Réduire les crises à 1 par semaine",
+        "intervention": "Education à l’utilisation de l’inhalateur",
+        "evaluation": "Crises moins fréquentes",
+        "observation": "Bonne observance du traitement"
+      }
+    ]
+  },
+  {
+    "titre": "Patient Post-Opératoire - Douleur",
+    "description": "Patient opéré d’une hernie inguinale.",
+    "etapes": [
+      {
+        "date": "12/02/2024",
+        "besoin": "Être soulagé de la douleur",
+        "difficulte": "Douleur intense au niveau de la plaie",
+        "objectif": "Réduire la douleur à un score ≤ 3/10",
+        "intervention": "Administration d’antalgiques prescrits",
+        "evaluation": "Douleur diminuée à 4/10",
+        "observation": "Surveiller l’évolution"
+      }
+    ]
+  },
+  {
+    "titre": "Patient Anémique - Fatigue",
+    "description": "Femme de 30 ans présentant une anémie sévère.",
+    "etapes": [
+      {
+        "date": "15/02/2024",
+        "besoin": "Maintenir un bon niveau d’énergie",
+        "difficulte": "Fatigue constante",
+        "objectif": "Améliorer la tolérance à l’effort",
+        "intervention": "Supplémentation en fer et repos",
+        "evaluation": "Fatigue modérément réduite",
+        "observation": "Continuer le traitement"
+      }
+    ]
+  },
+  {
+    "titre": "Patient Déshydraté - Hydratation",
+    "description": "Enfant de 5 ans avec diarrhée aiguë.",
+    "etapes": [
+      {
+        "date": "18/02/2024",
+        "besoin": "Maintenir un bon équilibre hydrique",
+        "difficulte": "Perte excessive de liquides",
+        "objectif": "Prévenir la déshydratation",
+        "intervention": "Administration de SRO",
+        "evaluation": "Amélioration de l’état général",
+        "observation": "Surveiller les selles"
+      }
+    ]
+  },
+  {
+    "titre": "Patient Alité - Prévention escarres",
+    "description": "Patient âgé immobilisé au lit.",
+    "etapes": [
+      {
+        "date": "20/02/2024",
+        "besoin": "Maintenir l’intégrité de la peau",
+        "difficulte": "Immobilisation prolongée",
+        "objectif": "Prévenir les escarres",
+        "intervention": "Changement de position toutes les 2 heures",
+        "evaluation": "Peau intacte",
+        "observation": "Bonne prévention"
+      }
+    ]
+  },
+  {
+    "titre": "Patient Fébrile - Température",
+    "description": "Patient présentant une fièvre à 39°C.",
+    "etapes": [
+      {
+        "date": "22/02/2024",
+        "besoin": "Maintenir une température normale",
+        "difficulte": "Hyperthermie",
+        "objectif": "Faire baisser la température à 37,5°C",
+        "intervention": "Antipyrétique et hydratation",
+        "evaluation": "Température à 38°C",
+        "observation": "Surveillance continue"
+      }
+    ]
+  },
+  {
+    "titre": "Patient Malnutri - Alimentation",
+    "description": "Patient présentant une perte de poids importante.",
+    "etapes": [
+      {
+        "date": "25/02/2024",
+        "besoin": "S’alimenter correctement",
+        "difficulte": "Manque d’appétit",
+        "objectif": "Prendre 1 kg en 2 semaines",
+        "intervention": "Régime hypercalorique",
+        "evaluation": "Légère prise de poids",
+        "observation": "Encourager l’alimentation"
+      }
+    ]
+  },
+  {
+    "titre": "Patient Anxieux - Soutien psychologique",
+    "description": "Patient stressé avant une intervention chirurgicale.",
+    "etapes": [
+      {
+        "date": "28/02/2024",
+        "besoin": "Être rassuré et se sentir en sécurité",
+        "difficulte": "Anxiété importante",
+        "objectif": "Diminuer l’anxiété",
+        "intervention": "Écoute active et information",
+        "evaluation": "Patient plus calme",
+        "observation": "Bonne relation soignant-soigné"
+      }
+    ]
+  }
+]
