@@ -1,1 +1,22 @@
-
+[
+  {
+    "titre": "Exercice 1 - Respirer normalement",
+    "structure": "Hôpital National - Pneumologie",
+    "patientIdentite": "Mr Diallo, 60 ans",
+    "histoireMaladie": "Hospitalisé pour crise d'asthme sévère. Respiration sifflante, saturation 90%.",
+    "entretien": [
+      {"q": "Comment respirez-vous ?", "r": "C'est difficile, je manque d'air."},
+      {"q": "Avez-vous fait des efforts ?", "r": "Oui, je suis essoufflé au moindre mouvement."}
+    ]
+  },
+  {
+    "titre": "Exercice 2 - Se mouvoir",
+    "structure": "Hôpital Point G - Rééducation",
+    "patientIdentite": "Mr Koné, 50 ans, post-AVC",
+    "histoireMaladie": "Le patient refuse de se lever. Il dit que c'est trop dur et ne comprend pas l'intérêt.",
+    "entretien": [
+      {"q": "Pourquoi rester au lit ?", "r": "C'est trop fatiguant de marcher."},
+      {"q": "Avez-vous mal ?", "r": "Un peu dans la jambe droite."}
+    ]
+  }
+]
