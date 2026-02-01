@@ -1,22 +1,152 @@
 [
   {
     "titre": "Exercice 1 - Respirer normalement",
-    "structure": "Hôpital National - Pneumologie",
+    "structure": "Hôpital National",
     "patientIdentite": "Mr Diallo, 60 ans",
-    "histoireMaladie": "Hospitalisé pour crise d'asthme sévère. Respiration sifflante, saturation 90%.",
+    "histoireMaladie": "Hospitalisé pour une crise d'asthme sévère avec dyspnée aiguë.",
     "entretien": [
-      {"q": "Comment respirez-vous ?", "r": "C'est difficile, je manque d'air."},
-      {"q": "Avez-vous fait des efforts ?", "r": "Oui, je suis essoufflé au moindre mouvement."}
+      {"q": "Comment respirez-vous ?", "r": "Je manque beaucoup d'air surtout la nuit."}
+    ],
+    "interventions": [
+      "Installer en position demi-assise",
+      "Surveiller la saturation en oxygène (SpO2)",
+      "Administrer les bronchodilatateurs prescrits",
+      "Rassurer le patient"
     ]
   },
   {
-    "titre": "Exercice 2 - Se mouvoir",
-    "structure": "Hôpital Point G - Rééducation",
-    "patientIdentite": "Mr Koné, 50 ans, post-AVC",
-    "histoireMaladie": "Le patient refuse de se lever. Il dit que c'est trop dur et ne comprend pas l'intérêt.",
+    "titre": "Exercice 2 - Boire et manger",
+    "structure": "CSCOM de quartier",
+    "patientIdentite": "Mme Traoré, 45 ans",
+    "histoireMaladie": "Hospitalisée pour déshydratation suite à des vomissements répétés.",
     "entretien": [
-      {"q": "Pourquoi rester au lit ?", "r": "C'est trop fatiguant de marcher."},
-      {"q": "Avez-vous mal ?", "r": "Un peu dans la jambe droite."}
+      {"q": "Avez-vous pu boire aujourd’hui ?", "r": "Non, tout ce que je bois je vomis."}
+    ],
+    "interventions": [
+      "Surveiller les entrées et sorties",
+      "Administrer les solutés prescrits",
+      "Encourager la prise de liquides par petites quantités",
+      "Surveiller les signes de déshydratation"
+    ]
+  },
+  {
+    "titre": "Exercice 3 - Éliminer",
+    "structure": "Hôpital Régional",
+    "patientIdentite": "Mr Coulibaly, 70 ans",
+    "histoireMaladie": "Hospitalisé pour constipation sévère depuis 5 jours.",
+    "entretien": [
+      {"q": "Depuis quand n’avez-vous pas fait de selles ?", "r": "Depuis presque une semaine."}
+    ],
+    "interventions": [
+      "Surveiller le transit intestinal",
+      "Encourager l’hydratation",
+      "Administrer le laxatif prescrit",
+      "Conseiller une alimentation riche en fibres"
+    ]
+  },
+  {
+    "titre": "Exercice 4 - Se mouvoir",
+    "structure": "Centre Hospitalier Universitaire",
+    "patientIdentite": "Mme Keita, 68 ans",
+    "histoireMaladie": "Hospitalisée suite à une fracture du col du fémur opérée.",
+    "entretien": [
+      {"q": "Pouvez-vous bouger seule ?", "r": "Non, j’ai peur d’avoir mal."}
+    ],
+    "interventions": [
+      "Aider aux déplacements",
+      "Installer correctement au lit",
+      "Encourager les exercices de mobilisation",
+      "Prévenir les chutes"
+    ]
+  },
+  {
+    "titre": "Exercice 5 - Dormir et se reposer",
+    "structure": "CSREF",
+    "patientIdentite": "Mr Sangaré, 52 ans",
+    "histoireMaladie": "Hospitalisé pour hypertension avec insomnie.",
+    "entretien": [
+      {"q": "Dormez-vous bien ?", "r": "Non, je dors très mal la nuit."}
+    ],
+    "interventions": [
+      "Créer un environnement calme",
+      "Surveiller la tension artérielle",
+      "Favoriser le repos",
+      "Administrer le traitement prescrit"
+    ]
+  },
+  {
+    "titre": "Exercice 6 - Maintenir la température",
+    "structure": "Hôpital de District",
+    "patientIdentite": "Enfant Koné, 6 ans",
+    "histoireMaladie": "Hospitalisé pour paludisme avec fièvre élevée.",
+    "entretien": [
+      {"q": "As-tu froid ou chaud ?", "r": "J’ai très chaud."}
+    ],
+    "interventions": [
+      "Surveiller la température",
+      "Administrer l’antipyrétique prescrit",
+      "Découvrir légèrement l’enfant",
+      "Encourager l’hydratation"
+    ]
+  },
+  {
+    "titre": "Exercice 7 - Être propre et protéger la peau",
+    "structure": "Maison de Santé",
+    "patientIdentite": "Mr Diarra, 75 ans",
+    "histoireMaladie": "Patient alité depuis plusieurs semaines.",
+    "entretien": [
+      {"q": "Ressentez-vous des douleurs sur la peau ?", "r": "Oui, surtout au dos."}
+    ],
+    "interventions": [
+      "Effectuer la toilette quotidienne",
+      "Changer régulièrement de position",
+      "Surveiller l’état de la peau",
+      "Utiliser un matelas anti-escarres"
+    ]
+  },
+  {
+    "titre": "Exercice 8 - Éviter les dangers",
+    "structure": "Hôpital Régional",
+    "patientIdentite": "Mme Samaké, 80 ans",
+    "histoireMaladie": "Hospitalisée pour chute à domicile.",
+    "entretien": [
+      {"q": "Êtes-vous déjà tombée ?", "r": "Oui, plusieurs fois récemment."}
+    ],
+    "interventions": [
+      "Sécuriser l’environnement",
+      "Aider lors des déplacements",
+      "Installer une sonnette d’appel",
+      "Surveiller régulièrement"
+    ]
+  },
+  {
+    "titre": "Exercice 9 - Communiquer",
+    "structure": "CSCOM",
+    "patientIdentite": "Mr Camara, 40 ans",
+    "histoireMaladie": "Hospitalisé pour anxiété sévère.",
+    "entretien": [
+      {"q": "Comment vous sentez-vous ?", "r": "Je suis très stressé."}
+    ],
+    "interventions": [
+      "Pratiquer l’écoute active",
+      "Rassurer le patient",
+      "Expliquer les soins",
+      "Encourager l’expression des émotions"
+    ]
+  },
+  {
+    "titre": "Exercice 10 - Apprendre",
+    "structure": "Hôpital Universitaire",
+    "patientIdentite": "Mme Touré, 55 ans",
+    "histoireMaladie": "Diabète récemment diagnostiqué.",
+    "entretien": [
+      {"q": "Connaissez-vous votre maladie ?", "r": "Non, je ne comprends pas bien."}
+    ],
+    "interventions": [
+      "Expliquer la maladie",
+      "Éduquer sur le régime alimentaire",
+      "Montrer la prise de la glycémie",
+      "Vérifier la compréhension"
     ]
   }
 ]
