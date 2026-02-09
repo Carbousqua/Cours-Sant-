@@ -226,6 +226,10 @@
   {
     "mot": "Anamnèse",
     "definition": "Renseignements recueillis par un professionnel de la santé auprès d’un patient ou de ses proches sur l’histoire de sa maladie, ainsi que les éléments positifs et négatifs pertinents, exprimés par le patient ou présents par le dossier."
+  },
+  {
+    "mot": "apnée du sommeil",
+    "definition": "Interruption involontaire et intermittente de la respiration pendant le sommeil." 
   }
 ]
 
