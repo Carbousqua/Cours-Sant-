@@ -242,6 +242,10 @@
   {
     "mot": "Claudication",
     "définition" : "Irrégularité de la démarche en raison de douleurs aux membres inférieurs qui surviennent à l’effort et diminuent au repos."
+  },
+  {
+    "mot": "Colique",
+    "définition" "Douleur à l’abdomen caractérisée par la répétition de spasmes."
   }
 ]
 
