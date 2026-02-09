@@ -222,6 +222,10 @@
   {
     "mot": "Insomnie",
     "definition": "Difficulté à s’endormir ou à maintenir le sommeil."
+  },
+  {
+    "mot": "Anamnèse",
+    "definition": "Renseignements recueillis par un professionnel de la santé auprès d’un patient ou de ses proches sur l’histoire de sa maladie, ainsi que les éléments positifs et négatifs pertinents, exprimés par le patient ou présents par le dossier."
   }
 ]
 
