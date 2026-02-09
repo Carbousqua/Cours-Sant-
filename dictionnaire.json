@@ -230,6 +230,10 @@
   {
     "mot": "Apnée du sommeil",
     "definition": "Interruption involontaire et intermittente de la respiration pendant le sommeil." 
+  },
+  {
+    "mot" : "Arthralgie",
+    "definition": "Douleur aux articulations."
   }
 ]
 
