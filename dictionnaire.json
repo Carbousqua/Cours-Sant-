@@ -246,6 +246,14 @@
   {
     "mot": "Colique",
     "définition" "Douleur à l’abdomen caractérisée par la répétition de spasmes."
+  },
+  {
+    "mot": "Contusion",
+    "définition" : "Lésion causée par une pression ou un choc, sans déchirure de la peau ni fracture des os."
+  },
+  {
+    "mot": "Crampe",
+    "définition": "Contraction involontaire et douloureuse d’un ou de plusieurs muscles."
   }
 ]
 
