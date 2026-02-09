@@ -234,6 +234,10 @@
   {
     "mot" : "Arthralgie",
     "definition": "Douleur aux articulations."
+  },
+  {
+    "mot": "Cholestérolémie",
+    "definition": "Taux de cholestérol dans le sang."
   }
 ]
 
